@@ -62,12 +62,12 @@
         <translation>Получаващ адрес</translation>
     </message>
     <message>
-        <source>These are your Phore addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Това са вашите Phore адреси за изпращане на плащания. Винаги проверявайте количеството и адреса на получателя, преди да изпратите монети.</translation>
+        <source>These are your fictecpagos addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Това са вашите fictecpagos адреси за изпращане на плащания. Винаги проверявайте количеството и адреса на получателя, преди да изпратите монети.</translation>
     </message>
     <message>
-        <source>These are your Phore addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Това са вашите Phore адреси за получаване на плащания. Препоръчително е да използвате нови адреси за получаване за всяка транзакция.</translation>
+        <source>These are your fictecpagos addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Това са вашите fictecpagos адреси за получаване на плащания. Препоръчително е да използвате нови адреси за получаване за всяка транзакция.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Потвърдете шифрирането на портфейла</translation>
     </message>
     <message>
-        <source>Phore will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your PHRs from being stolen by malware infecting your computer.</source>
-        <translation>Phore сега ще се затвори, за да довърши процеса по шифриране. Запомнете, че шифрирането на вашия портфейл не може напълно да защити вашия Phore от това, да бъде откраднат чрез злонамерен софутуер, инфектирал вашия компютър.</translation>
+        <source>fictecpagos will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your phrs from being stolen by malware infecting your computer.</source>
+        <translation>fictecpagos сега ще се затвори, за да довърши процеса по шифриране. Запомнете, че шифрирането на вашия портфейл не може напълно да защити вашия fictecpagos от това, да бъде откраднат чрез злонамерен софутуер, инфектирал вашия компютър.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Сигурни ли сте, че искате да шифрирате вашия портфейл?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PHR&lt;/b&gt;!</source>
-        <translation>&lt;b&gt;Внимание: Ако шифрирате вашия портфейл и загубите вашата парола, вие ще ЗАГУБИТЕ ВСИЧКИТЕ ВИ PHR&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FTP&lt;/b&gt;!</source>
+        <translation>&lt;b&gt;Внимание: Ако шифрирате вашия портфейл и загубите вашата парола, вие ще ЗАГУБИТЕ ВСИЧКИТЕ ВИ FTP&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -239,16 +239,16 @@
         <translation>&amp;BIP 38 Шифриране</translation>
     </message>
     <message>
-        <source>Enter a Phore Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Въведете Phore адрес, който искате да шифрирате с BIP 38. Въведете парола в средното поле. Натиснете 'шифрирай', за да се изчисли шифррания личен ключ.</translation>
+        <source>Enter a fictecpagos Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Въведете fictecpagos адрес, който искате да шифрирате с BIP 38. Въведете парола в средното поле. Натиснете 'шифрирай', за да се изчисли шифррания личен ключ.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Адрес:</translation>
     </message>
     <message>
-        <source>The Phore address to sign the message with</source>
-        <translation>Phore адреса, с който да подпишете съобщението</translation>
+        <source>The fictecpagos address to sign the message with</source>
+        <translation>fictecpagos адреса, с който да подпишете съобщението</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Копирай сегашния подпис в системния буфер</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Phore address</source>
-        <translation>Подпишете съобщението, за да докажете, че притежавате този Phore адрес</translation>
+        <source>Sign the message to prove you own this fictecpagos address</source>
+        <translation>Подпишете съобщението, за да докажете, че притежавате този fictecpagos адрес</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Въведете личният си BIP 38 ключ. Въведете тайната фраза в средното поле. Избери Дешифриращия Ключ за да изчислим личния ключ. След като ключа се дешифрира, за да добаите ключа към портфейла, кликнете "Импортирай адрес".</translation>
     </message>
     <message>
-        <source>The Phore address the message was signed with</source>
-        <translation>Phore адреса, който е подписано съобщението</translation>
+        <source>The fictecpagos address the message was signed with</source>
+        <translation>fictecpagos адреса, който е подписано съобщението</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Phore address</source>
-        <translation>Поверете съобщението, за да се уверите, че е подписано със зададения Phore адрес</translation>
+        <source>Verify the message to ensure it was signed with the specified fictecpagos address</source>
+        <translation>Поверете съобщението, за да се уверите, че е подписано със зададения fictecpagos адрес</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -602,24 +602,24 @@
         <translation>Колан с инструменти</translation>
     </message>
     <message>
-        <source>Phore Core</source>
-        <translation>Phore Ядро</translation>
+        <source>fictecpagos Core</source>
+        <translation>fictecpagos Ядро</translation>
     </message>
     <message>
-        <source>Send coins to a Phore address</source>
-        <translation>Изпратете монети до Phore адрес</translation>
+        <source>Send coins to a fictecpagos address</source>
+        <translation>Изпратете монети до fictecpagos адрес</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and phore: URIs)</source>
-        <translation>Поискай плащане (генерира QR кодове и  Phore:URI)</translation>
+        <source>Request payments (generates QR codes and fictecpagos: URIs)</source>
+        <translation>Поискай плащане (генерира QR кодове и  fictecpagos:URI)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
         <translation>&amp;Поверителност</translation>
     </message>
     <message>
-        <source>Privacy Action for zPHR and Obfuscation</source>
-        <translation>Поверителни действия за zPHR и Обфускация</translation>
+        <source>Privacy Action for zphr and Obfuscation</source>
+        <translation>Поверителни действия за zphr и Обфускация</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -630,24 +630,24 @@
         <translation>Разгледай мастърноудове</translation>
     </message>
     <message>
-        <source>&amp;About Phore Core</source>
-        <translation>&amp;Относно Phore Ядрото</translation>
+        <source>&amp;About fictecpagos Core</source>
+        <translation>&amp;Относно fictecpagos Ядрото</translation>
     </message>
     <message>
-        <source>Show information about Phore Core</source>
-        <translation>Информациза за Phore Ядрото</translation>
+        <source>Show information about fictecpagos Core</source>
+        <translation>Информациза за fictecpagos Ядрото</translation>
     </message>
     <message>
-        <source>Modify configuration options for Phore</source>
-        <translation>Промени Phore конфигурацията</translation>
+        <source>Modify configuration options for fictecpagos</source>
+        <translation>Промени fictecpagos конфигурацията</translation>
     </message>
     <message>
-        <source>Sign messages with your Phore addresses to prove you own them</source>
-        <translation>Подпишете съобщения със своте Phore адреси, за да докажете че са Ваши</translation>
+        <source>Sign messages with your fictecpagos addresses to prove you own them</source>
+        <translation>Подпишете съобщения със своте fictecpagos адреси, за да докажете че са Ваши</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Phore addresses</source>
-        <translation>Проеврете съобщения, за да се убедите, че са подписани с указаните Phore адреси</translation>
+        <source>Verify messages to ensure they were signed with specified fictecpagos addresses</source>
+        <translation>Проеврете съобщения, за да се убедите, че са подписани с указаните fictecpagos адреси</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -678,8 +678,8 @@
         <translation>Отвори Мастърноуд конфигурационния файл</translation>
     </message>
     <message>
-        <source>Open a Phore: URI or payment request</source>
-        <translation>Отвори Phore:URI платежно нареждане</translation>
+        <source>Open a fictecpagos: URI or payment request</source>
+        <translation>Отвори fictecpagos:URI платежно нареждане</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -690,16 +690,16 @@
         <translation>Прозорец на блок сондата</translation>
     </message>
     <message>
-        <source>Show the Phore Core help message to get a list with possible Phore command-line options</source>
-        <translation>Разкрийте Помощ за Phore Ядрото, за да видите списък с възможни писмени команди.</translation>
+        <source>Show the fictecpagos Core help message to get a list with possible fictecpagos command-line options</source>
+        <translation>Разкрийте Помощ за fictecpagos Ядрото, за да видите списък с възможни писмени команди.</translation>
     </message>
     <message>
-        <source>Phore Core client</source>
-        <translation>Клиент Phore Ядро</translation>
+        <source>fictecpagos Core client</source>
+        <translation>Клиент fictecpagos Ядро</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Phore network</source>
-        <translation><numerusform>%n активни връзки към Phore мрежата</numerusform><numerusform>%n активни свръзки към Phore мрежата</numerusform></translation>
+        <source>%n active connection(s) to fictecpagos network</source>
+        <translation><numerusform>%n активни връзки към fictecpagos мрежата</numerusform><numerusform>%n активни свръзки към fictecpagos мрежата</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -853,8 +853,8 @@ Address: %4
         <translation>ТекстовЕтикет</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (phore.conf).</source>
-        <translation>Не всички преводи ще бъдат показани. За да разгледате всички преводи, трябва да зададете txindex=1 в конфигурационния файл (phore.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (fictecpagos.conf).</source>
+        <translation>Не всички преводи ще бъдат показани. За да разгледате всички преводи, трябва да зададете txindex=1 в конфигурационния файл (fictecpagos.conf).</translation>
     </message>
 </context>
 <context>
@@ -1142,8 +1142,8 @@ Address: %4
         <translation>Редактирай адрес за изпращане</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Phore address.</source>
-        <translation>Зададения адрес "%1"не е валиден Phore адрес.</translation>
+        <source>The entered address "%1" is not a valid fictecpagos address.</source>
+        <translation>Зададения адрес "%1"не е валиден fictecpagos адрес.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1188,16 +1188,16 @@ Address: %4
         <translation>версия</translation>
     </message>
     <message>
-        <source>Phore Core</source>
-        <translation>Phore Ядро</translation>
+        <source>fictecpagos Core</source>
+        <translation>fictecpagos Ядро</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Phore Core</source>
-        <translation>Относно Phore Ядрото</translation>
+        <source>About fictecpagos Core</source>
+        <translation>Относно fictecpagos Ядрото</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1243,16 +1243,16 @@ Address: %4
         <translation>Привет</translation>
     </message>
     <message>
-        <source>Welcome to Phore Core.</source>
-        <translation>Добре Дошли в Phore Ядрото</translation>
+        <source>Welcome to fictecpagos Core.</source>
+        <translation>Добре Дошли в fictecpagos Ядрото</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Phore Core will store its data.</source>
-        <translation>Тъй като това е първия път, в който стартирате програмата, имате възможността да изберете къде Phore Ядрото ще съхранява своите данни.</translation>
+        <source>As this is the first time the program is launched, you can choose where fictecpagos Core will store its data.</source>
+        <translation>Тъй като това е първия път, в който стартирате програмата, имате възможността да изберете къде fictecpagos Ядрото ще съхранява своите данни.</translation>
     </message>
     <message>
-        <source>Phore Core will download and store a copy of the Phore block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Phore Ядрото ще изтегли и запише копие на целия Phore блокчейн. Поне %1 гигабайта ще бъдат съхранявани в тази папка, като тенденцията е файла да расте. Портфейла също ще бъде запазен в тази папка.</translation>
+        <source>fictecpagos Core will download and store a copy of the fictecpagos block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>fictecpagos Ядрото ще изтегли и запише копие на целия fictecpagos блокчейн. Поне %1 гигабайта ще бъдат съхранявани в тази папка, като тенденцията е файла да расте. Портфейла също ще бъде запазен в тази папка.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1263,8 +1263,8 @@ Address: %4
         <translation>Задай своя папка за данни:</translation>
     </message>
     <message>
-        <source>Phore Core</source>
-        <translation>Phore Ядро</translation>
+        <source>fictecpagos Core</source>
+        <translation>fictecpagos Ядро</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1405,12 +1405,12 @@ Address: %4
         <translation>Въведете адреса на Получателя</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Phore addresses after it matures.
-To Add: enter percentage to give and Phore address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other fictecpagos addresses after it matures.
+To Add: enter percentage to give and fictecpagos address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>МултиИзпращане Ви позволява автоматично да изпращате до 100% от вашите стейк или мастърноуд възнаграждения към списък от други Phore адреси.
-Да Добавите: въведете процент и задайте Phore адрес към вектора за МултиИзпращане
+        <translation>МултиИзпращане Ви позволява автоматично да изпращате до 100% от вашите стейк или мастърноуд възнаграждения към списък от други fictecpagos адреси.
+Да Добавите: въведете процент и задайте fictecpagos адрес към вектора за МултиИзпращане
 Да Прамахнете: Въведете адрес за изстриване и натиснете истрий (del).
 МултиИзпращането няма да бъде активирано докато не кликнете "Активирай"</translation>
     </message>
@@ -1548,47 +1548,47 @@ Please check the address and try again.</source>
         <translation>Изберете ниво на поверителност.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 PHR</source>
-        <translation>Използвай 2 различни мастърноуда за смесване на средства над 10000 PHR</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 FTP</source>
+        <translation>Използвай 2 различни мастърноуда за смесване на средства над 10000 FTP</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 PHR</source>
-        <translation>Използвай 8 различни мастърноуда за да смесите средства до 10000 PHR</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 FTP</source>
+        <translation>Използвай 8 различни мастърноуда за да смесите средства до 10000 FTP</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Използвай 16 различни мастърноуда</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 PHR to anonymize 10000 PHR</source>
-        <translation>Това е най-бързия метод и ще струва около 0.025 PHR за да скриете 10000 PHR</translation>
+        <source>This option is the quickest and will cost about ~0.025 FTP to anonymize 10000 FTP</source>
+        <translation>Това е най-бързия метод и ще струва около 0.025 FTP за да скриете 10000 FTP</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 PHR to anonymize 10000 PHR</source>
-        <translation>Тази опция е сравнително бърза и ще струва около 0.05 PHR за да скриете 10000 PHR</translation>
+        <source>This option is moderately fast and will cost about 0.05 FTP to anonymize 10000 FTP</source>
+        <translation>Тази опция е сравнително бърза и ще струва около 0.05 FTP за да скриете 10000 FTP</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
-        <translation>Това е най-бавния и най-сигурен вариант за скриване на PHR. Използването й ще струва</translation>
+        <translation>Това е най-бавния и най-сигурен вариант за скриване на FTP. Използването й ще струва</translation>
     </message>
     <message>
-        <source>0.1 PHR per 10000 PHR you anonymize.</source>
-        <translation>0.1 PHR за 10000 скрити PHR</translation>
+        <source>0.1 FTP per 10000 FTP you anonymize.</source>
+        <translation>0.1 FTP за 10000 скрити FTP</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Конфигурация на Обфускацията</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Phore's configuration screen.</source>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening fictecpagos's configuration screen.</source>
         <translation>Обфускацията е успешно конфигурирана на елементарно ниво (%1 и 2 кръга). Moжете да промените тази настройка по всяко време от същото място.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Phore's configuration screen.</source>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening fictecpagos's configuration screen.</source>
         <translation>Обфускацията е успешно конфигурирана на високо ниво (%1 и 8 кръга). Moжете да промените тази настройка по всяко време от същото място.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Phore's configuration screen.</source>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening fictecpagos's configuration screen.</source>
         <translation>Обфускацията е успешно конфигурирана на максимално ниво (%1 и 16 кръга). Moжете да промените тази настройка по всяко време от същото място.</translation>
     </message>
 </context>
@@ -1650,8 +1650,8 @@ Please check the address and try again.</source>
         <translation>Aко изключите харча на непотвърдено ресто, рестото от превод&lt;br/&gt;не може да се използва, докато превода не получи поне 1 потвърждение. &lt;br/&gt;Това влияе и на начина по който общите Ви средства се преизчисляват.</translation>
     </message>
     <message>
-        <source>Automatically open the Phore client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматично отвори Phore порта в рутера. Това става само ако рутера Ви подържа UPnP и последния е включен.</translation>
+        <source>Automatically open the fictecpagos client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматично отвори fictecpagos порта в рутера. Това става само ако рутера Ви подържа UPnP и последния е включен.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1670,12 +1670,12 @@ Please check the address and try again.</source>
         <translation>Експерт</translation>
     </message>
     <message>
-        <source>Automatically start Phore after logging in to the system.</source>
-        <translation>Стартирай Phore автоматично след влизане в системата.</translation>
+        <source>Automatically start fictecpagos after logging in to the system.</source>
+        <translation>Стартирай fictecpagos автоматично след влизане в системата.</translation>
     </message>
     <message>
-        <source>&amp;Start Phore on system login</source>
-        <translation>&amp;Стартирай Phore заедно с операционната система</translation>
+        <source>&amp;Start fictecpagos on system login</source>
+        <translation>&amp;Стартирай fictecpagos заедно с операционната система</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1702,34 +1702,34 @@ Please check the address and try again.</source>
         <translation>&amp;Мрежа</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Phore.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting fictecpagos.</source>
         <translation>Промяна на езика. Настройката е активна след рестарт на портфейла.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/phore-project/phore-project-translations</source>
+https://www.transifex.com/fictecpagos-project/fictecpagos-project-translations</source>
         <translation>Липсващ език или непълен превод? Помогнете с преводите тук:
-https://www.transifex.com/phore-project/phore-project-translations</translation>
+https://www.transifex.com/fictecpagos-project/fictecpagos-project-translations</translation>
     </message>
     <message>
-        <source>Percentage of incoming PHR which get automatically converted to zPHR via Zerocoin Protocol (min: 10%)</source>
-        <translation>Процент от входящите PHR, който автоматично да се конвертира в zPHR посредтвом Zerocoin Протокола (мин: 10%)</translation>
+        <source>Percentage of incoming FTP which get automatically converted to zphr via Zerocoin Protocol (min: 10%)</source>
+        <translation>Процент от входящите FTP, който автоматично да се конвертира в zphr посредтвом Zerocoin Протокола (мин: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zPHR</source>
-        <translation>Процент автоматично сечени zPHR</translation>
+        <source>Percentage of autominted zphr</source>
+        <translation>Процент автоматично сечени zphr</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough PHR for this denomination is available</source>
-        <translation>Не бързай с автоматичното конвертиране в zPHR докато не се съберат достатъчно PHR за тази деноминация</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough FTP for this denomination is available</source>
+        <translation>Не бързай с автоматичното конвертиране в zphr докато не се съберат достатъчно FTP за тази деноминация</translation>
     </message>
     <message>
-        <source>Preferred Automint zPHR Denomination</source>
-        <translation>Предпочитани деноминации, в които да се сече автоматичен zPHR</translation>
+        <source>Preferred Automint zphr Denomination</source>
+        <translation>Предпочитани деноминации, в които да се сече автоматичен zphr</translation>
     </message>
     <message>
-        <source>Connect to the Phore network through a SOCKS5 proxy.</source>
-        <translation>Свържи се с Phore мрежата със SOCKS5 прокси.</translation>
+        <source>Connect to the fictecpagos network through a SOCKS5 proxy.</source>
+        <translation>Свържи се с fictecpagos мрежата със SOCKS5 прокси.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1859,8 +1859,8 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>От</translation>
     </message>
     <message>
-        <source>PHR Balances</source>
-        <translation>PHR Баланс</translation>
+        <source>FTP Balances</source>
+        <translation>FTP Баланс</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1887,8 +1887,8 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Възнаграждение от стейкване или мастърноуд, които все още не са узрели.</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Phore network after a connection is established, but this process has not completed yet.</source>
-        <translation>Информацията на вашия екран може би е стара. Вашия портфейла синхронизира автоматично с Phore мрежата след като има успешна свръзка, но процеса отнема време и не е завършил все още.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the fictecpagos network after a connection is established, but this process has not completed yet.</source>
+        <translation>Информацията на вашия екран може би е стара. Вашия портфейла синхронизира автоматично с fictecpagos мрежата след като има успешна свръзка, но процеса отнема време и не е завършил все още.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1927,12 +1927,12 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Комбиниран общ баланс (само озрелите монети)</translation>
     </message>
     <message>
-        <source>PHR:</source>
-        <translation>PHR:</translation>
+        <source>FTP:</source>
+        <translation>FTP:</translation>
     </message>
     <message>
-        <source>zPHR:</source>
-        <translation>zPHR:</translation>
+        <source>zphr:</source>
+        <translation>zphr:</translation>
     </message>
     <message>
         <source>0 %</source>
@@ -1974,12 +1974,12 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Грешен адрес за плащане %1</translation>
     </message>
     <message>
-        <source>Cannot start phore: click-to-pay handler</source>
-        <translation>Провал при стартирането на phore: click-to-pay обработвател</translation>
+        <source>Cannot start fictecpagos: click-to-pay handler</source>
+        <translation>Провал при стартирането на fictecpagos: click-to-pay обработвател</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Phore address or malformed URI parameters.</source>
-        <translation>URI не може да се парсне. Вероятна причина е невалиден Phore адрес или зле-форматирани URI Параметри.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid fictecpagos address or malformed URI parameters.</source>
+        <translation>URI не може да се парсне. Вероятна причина е невалиден fictecpagos адрес или зле-форматирани URI Параметри.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2060,24 +2060,24 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>PHR which were anonymized via Zerocin Protocol</source>
-        <translation>PHR скрити посредством Зерокойн протокола</translation>
+        <source>FTP which were anonymized via Zerocin Protocol</source>
+        <translation>FTP скрити посредством Зерокойн протокола</translation>
     </message>
     <message>
-        <source>Zerocoin PHR (zPHR)</source>
-        <translation>Zerocoin PHR (zPHR)</translation>
+        <source>Zerocoin FTP (zphr)</source>
+        <translation>Zerocoin FTP (zphr)</translation>
     </message>
     <message>
         <source>Zerocoin Actions:</source>
         <translation>Zerocoin Действия:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Phore network after a connection is established, but this process has not completed yet.</source>
-        <translation>Информацията на вашия екран може би е стара. Вашия портфейла синхронизира автоматично с Phore мрежата след като има успешна свръзка, но процеса отнема време и не е завършил все още.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the fictecpagos network after a connection is established, but this process has not completed yet.</source>
+        <translation>Информацията на вашия екран може би е стара. Вашия портфейла синхронизира автоматично с fictecpagos мрежата след като има успешна свръзка, но процеса отнема време и не е завършил все още.</translation>
     </message>
     <message>
-        <source>Enter an amount of Phr to convert to zPhr</source>
-        <translation>Въведете колко PHR  да се конвертират в zPHR</translation>
+        <source>Enter an amount of FTP to convert to zphr</source>
+        <translation>Въведете колко FTP  да се конвертират в zphr</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2088,16 +2088,16 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zPHR</source>
-        <translation>zPHR</translation>
+        <source>zphr</source>
+        <translation>zphr</translation>
     </message>
     <message>
         <source>Available for Minting:</source>
         <translation>Налични за сечене:</translation>
     </message>
     <message>
-        <source>0.000 000 00 PHR</source>
-        <translation>0.000 000 00 PHR</translation>
+        <source>0.000 000 00 FTP</source>
+        <translation>0.000 000 00 FTP</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2132,12 +2132,12 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Състояния и/или Съобщения от последните действия по сечене на монети.</translation>
     </message>
     <message>
-        <source>zPhr Control</source>
-        <translation>zPHR Контрол</translation>
+        <source>zphr Control</source>
+        <translation>zphr Контрол</translation>
     </message>
     <message>
-        <source>zPhr Selected:</source>
-        <translation>Избрани zPHR:</translation>
+        <source>zphr Selected:</source>
+        <translation>Избрани zphr:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2156,8 +2156,8 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Налични:</translation>
     </message>
     <message>
-        <source>0 zPHR</source>
-        <translation>0 zPHR</translation>
+        <source>0 zphr</source>
+        <translation>0 zphr</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2176,7 +2176,7 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Плати На:</translation>
     </message>
     <message>
-        <source>The Phore address to send the payment to. Creates local payment to yourself when empty.</source>
+        <source>The fictecpagos address to send the payment to. Creates local payment to yourself when empty.</source>
         <translation>Адреса на който да изпратим плащането. Ако е празно - плащането е до себе си.</translation>
     </message>
     <message>
@@ -2209,7 +2209,7 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
     </message>
     <message>
         <source>Convert Change to Zerocoin (might cost additional fees)</source>
-        <translation>Изсечи zPHR от рестото (ще струва допълнително заради таксите)</translation>
+        <translation>Изсечи zphr от рестото (ще струва допълнително заради таксите)</translation>
     </message>
     <message>
         <source>If checked, the wallet tries to minimize the returning change instead of minimizing the number of spent denominations.</source>
@@ -2376,8 +2376,8 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Копирай сумата</translation>
     </message>
     <message>
-        <source>Zerocoin functionality is not enabled on the Phore network yet.</source>
-        <translation>Zerocoin функцията все още не е активирана в Phore мрежата.</translation>
+        <source>Zerocoin functionality is not enabled on the fictecpagos network yet.</source>
+        <translation>Zerocoin функцията все още не е активирана в fictecpagos мрежата.</translation>
     </message>
     <message>
         <source>Error: Your wallet is locked. Please enter the wallet passphrase first.</source>
@@ -2396,8 +2396,8 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Успешно изсечени</translation>
     </message>
     <message>
-        <source> zPHR in </source>
-        <translation>zPHR в</translation>
+        <source> zphr in </source>
+        <translation>zphr в</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2430,8 +2430,8 @@ Please be patient...</source>
         <translation>Без 'Плати На' адрес, плащането е локално</translation>
     </message>
     <message>
-        <source>Invalid Phore Address</source>
-        <translation>Невалиден Phore адрес</translation>
+        <source>Invalid fictecpagos Address</source>
+        <translation>Невалиден fictecpagos адрес</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2474,8 +2474,8 @@ Please be patient...</source>
         <translation>Харченето на Zerocoin се провали със статус =</translation>
     </message>
     <message>
-        <source>zPhr Spend #: </source>
-        <translation>zPHR Похарчени #:</translation>
+        <source>zphr Spend #: </source>
+        <translation>zphr Похарчени #:</translation>
     </message>
     <message>
         <source>denomination: </source>
@@ -2498,8 +2498,8 @@ Please be patient...</source>
         <translation>адрес:</translation>
     </message>
     <message>
-        <source>zPhr Mint</source>
-        <translation>Сечене на zPHR</translation>
+        <source>zphr Mint</source>
+        <translation>Сечене на zphr</translation>
     </message>
     <message>
         <source>Sending successful, return code: </source>
@@ -2521,8 +2521,8 @@ Please be patient...</source>
         <translation>Сума</translation>
     </message>
     <message>
-        <source>Enter a Phore address (e.g. %1)</source>
-        <translation>Задайте Phore адрес (например %1)</translation>
+        <source>Enter a fictecpagos address (e.g. %1)</source>
+        <translation>Задайте fictecpagos адрес (например %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2659,8 +2659,8 @@ Please be patient...</source>
         <translation>Блокчейн</translation>
     </message>
     <message>
-        <source>Open the Phore debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Отвори Phore дебъг лог файла от сегашната папка. Това може да отнеме известно време за по-дълги файлове.</translation>
+        <source>Open the fictecpagos debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Отвори fictecpagos дебъг лог файла от сегашната папка. Това може да отнеме известно време за по-дълги файлове.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -2827,8 +2827,8 @@ Please be patient...</source>
         <translation>Изходящи:</translation>
     </message>
     <message>
-        <source>Welcome to the Phore RPC console.</source>
-        <translation>Добре Дошли в RPC конзолата на Phore.</translation>
+        <source>Welcome to the fictecpagos RPC console.</source>
+        <translation>Добре Дошли в RPC конзолата на fictecpagos.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2898,12 +2898,12 @@ Please be patient...</source>
         <translation>Незадължителен етикет, който да асоциираме с адреса за получаване.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Phore network.</source>
-        <translation>Съобщение свободен текст, което да се прикачи към платежното нареждане, за да бъде показано когато нареждането се отвори от клиента на когото е изпратено. Обърнете внимание, че съобщението няма да бъде изпратено заедно с плащането по Phore мрежата.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the fictecpagos network.</source>
+        <translation>Съобщение свободен текст, което да се прикачи към платежното нареждане, за да бъде показано когато нареждането се отвори от клиента на когото е изпратено. Обърнете внимание, че съобщението няма да бъде изпратено заедно с плащането по fictecpagos мрежата.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Phore network.</source>
-        <translation>Съобщение свободен текст, което да се прикачи към платежното нареждане, за да бъде показано когато нареждането се отвори от клиента на когото е изпратено. &lt;br&gt;Обърнете внимание, че съобщението няма да бъде изпратено заедно с плащането по Phore мрежата.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the fictecpagos network.</source>
+        <translation>Съобщение свободен текст, което да се прикачи към платежното нареждане, за да бъде показано когато нареждането се отвори от клиента на когото е изпратено. &lt;br&gt;Обърнете внимание, че съобщението няма да бъде изпратено заедно с плащането по fictecpagos мрежата.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3127,8 +3127,8 @@ Please be patient...</source>
         <translation>Размер на UTXO:</translation>
     </message>
     <message>
-        <source>0 PHR</source>
-        <translation>0 PHR</translation>
+        <source>0 FTP</source>
+        <translation>0 FTP</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3179,15 +3179,15 @@ Please be patient...</source>
         <translation>Автоматично избрани монети</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uPHRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uPHRs in fee,&lt;br /&gt;while "at least" pays 1000 uPHRs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ако собствената такса е настроена на 1000 uPHR и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uPHR входяща такса, &lt;br /&gt;докато "минимална сума" плаща 1000 uPHR. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
+        <source>If the custom fee is set to 1000 uphrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uphrs in fee,&lt;br /&gt;while "at least" pays 1000 uphrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Ако собствената такса е настроена на 1000 uphr и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uphr входяща такса, &lt;br /&gt;докато "минимална сума" плаща 1000 uphr. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uPHRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uPHRs in fee,&lt;br /&gt;while "total at least" pays 1000 uPHRs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ако собствената такса е настроена на 1000 uPHR и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uPHR входяща такса,&lt;br /&gt; докато "минимална сума" плаща 1000 uPHR. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
+        <source>If the custom fee is set to 1000 uphrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uphrs in fee,&lt;br /&gt;while "total at least" pays 1000 uphrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Ако собствената такса е настроена на 1000 uphr и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uphr входяща такса,&lt;br /&gt; докато "минимална сума" плаща 1000 uphr. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Phore transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for fictecpagos transactions than the network can process.</source>
         <translation>Няма проблем да платите минималната такса, стига обема преводи да е по-малък от наличното място в блоковете. &lt;br /&gt;Но имайте впредвид, че това може да се окаже в превод, който никога не получава потвърждение ако заявките за преводи са повече от колкото мрежата може да понесе.</translation>
     </message>
     <message>
@@ -3235,8 +3235,8 @@ Please be patient...</source>
         <translation>Добави Получател</translation>
     </message>
     <message>
-        <source>Anonymized PHR</source>
-        <translation>Анонимизиран PHR</translation>
+        <source>Anonymized FTP</source>
+        <translation>Анонимизиран FTP</translation>
     </message>
     <message>
         <source>SwiftTX</source>
@@ -3295,8 +3295,8 @@ Please be patient...</source>
         <translation>анонимни средства</translation>
     </message>
     <message>
-        <source>Warning: Invalid Phore address</source>
-        <translation>Предупреждение: Невалиден PHR адрес</translation>
+        <source>Warning: Invalid fictecpagos address</source>
+        <translation>Предупреждение: Невалиден FTP адрес</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -3402,8 +3402,8 @@ Please be patient...</source>
         <translation>Плати На:</translation>
     </message>
     <message>
-        <source>The Phore address to send the payment to</source>
-        <translation>Phore адреса - получател на плащането</translation>
+        <source>The fictecpagos address to send the payment to</source>
+        <translation>fictecpagos адреса - получател на плащането</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3442,8 +3442,8 @@ Please be patient...</source>
         <translation>Съобщение:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Phore: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Phore network.</source>
-        <translation>Съобщение, което е било прикачено към Phore:URI и което ще бъде запазено заедно с превода за ваша информация. Внимание: Това съобщение е само за Вас, то няма да бъде изпратено по Phore мрежата.</translation>
+        <source>A message that was attached to the fictecpagos: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the fictecpagos network.</source>
+        <translation>Съобщение, което е било прикачено към fictecpagos:URI и което ще бъде запазено заедно с превода за ваша информация. Внимание: Това съобщение е само за Вас, то няма да бъде изпратено по fictecpagos мрежата.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3469,8 +3469,8 @@ Please be patient...</source>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Phore Core is shutting down...</source>
-        <translation>Изключване на Phore Ядрото...</translation>
+        <source>fictecpagos Core is shutting down...</source>
+        <translation>Изключване на fictecpagos Ядрото...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3492,8 +3492,8 @@ Please be patient...</source>
         <translation>Може да подписвате съобщения с Вашите адреси, за да докажете че сте техен притежател. Внимавайте да не подписвате нищо съмнително, тъй като има хакерски атаки, които целят да придобият вашата самоличност. Само подписвайте пълен и ясен текст, с който сте напълно съгласни.</translation>
     </message>
     <message>
-        <source>The Phore address to sign the message with</source>
-        <translation>Phore адреса, с който да подпишете съобщението</translation>
+        <source>The fictecpagos address to sign the message with</source>
+        <translation>fictecpagos адреса, с който да подпишете съобщението</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3524,16 +3524,16 @@ Please be patient...</source>
         <translation>Копирай сегашния подпис в системния буфер</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Phore address</source>
-        <translation>Подпишете съобщението, за да докажете, че притежавате този Phore адрес</translation>
+        <source>Sign the message to prove you own this fictecpagos address</source>
+        <translation>Подпишете съобщението, за да докажете, че притежавате този fictecpagos адрес</translation>
     </message>
     <message>
-        <source>The Phore address the message was signed with</source>
-        <translation>Phore адреса, който е подписано съобщението</translation>
+        <source>The fictecpagos address the message was signed with</source>
+        <translation>fictecpagos адреса, който е подписано съобщението</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Phore address</source>
-        <translation>Поверете съобщението, за да се уверите, че е подписано със зададения Phore адрес</translation>
+        <source>Verify the message to ensure it was signed with the specified fictecpagos address</source>
+        <translation>Поверете съобщението, за да се уверите, че е подписано със зададения fictecpagos адрес</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3619,8 +3619,8 @@ Please be patient...</source>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Phore Core</source>
-        <translation>Phore Ядро</translation>
+        <source>fictecpagos Core</source>
+        <translation>fictecpagos Ядро</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3635,8 +3635,8 @@ Please be patient...</source>
         <translation>Dash Core разработчици</translation>
     </message>
     <message>
-        <source>The Phore Core developers</source>
-        <translation>Phore Core разработчици</translation>
+        <source>The fictecpagos Core developers</source>
+        <translation>fictecpagos Core разработчици</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3955,32 +3955,32 @@ Please be patient...</source>
         <translation>Обфускирани</translation>
     </message>
     <message>
-        <source>Converted Phr to zPhr</source>
-        <translation>Конвертиран PHR във zPHR</translation>
+        <source>Converted FTP to zphr</source>
+        <translation>Конвертиран FTP във zphr</translation>
     </message>
     <message>
-        <source>Spent zPhr</source>
-        <translation>Похарчени zPHR</translation>
+        <source>Spent zphr</source>
+        <translation>Похарчени zphr</translation>
     </message>
     <message>
-        <source>Received Phr from zPhr</source>
-        <translation>Получен PHR от zPHR</translation>
+        <source>Received FTP from zphr</source>
+        <translation>Получен FTP от zphr</translation>
     </message>
     <message>
-        <source>Minted Change as zPhr from zPhr Spend</source>
-        <translation>Исечено ресто като zPHR от похарчените zPHR</translation>
+        <source>Minted Change as zphr from zphr Spend</source>
+        <translation>Исечено ресто като zphr от похарчените zphr</translation>
     </message>
     <message>
-        <source>Converted zPhr to Phr</source>
-        <translation>Конвертирани zPHR в PHR</translation>
+        <source>Converted zphr to FTP</source>
+        <translation>Конвертирани zphr в FTP</translation>
     </message>
     <message>
         <source>watch-only</source>
         <translation>наблюдение само</translation>
     </message>
     <message>
-        <source>zPhr Accumulator</source>
-        <translation>zPHR Акумулатор</translation>
+        <source>zphr Accumulator</source>
+        <translation>zphr Акумулатор</translation>
     </message>
     <message>
         <source>(n/a)</source>
@@ -4086,8 +4086,8 @@ Please be patient...</source>
         <translation>Мастърноуд възнаграждение</translation>
     </message>
     <message>
-        <source>Received Phr from zPhr</source>
-        <translation>Получен PHR от zPHR</translation>
+        <source>Received FTP from zphr</source>
+        <translation>Получен FTP от zphr</translation>
     </message>
     <message>
         <source>Zerocoin Mint</source>
@@ -4098,8 +4098,8 @@ Please be patient...</source>
         <translation>Харчене на Zerocoin</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zPhr</source>
-        <translation>Харчене на Zerocoin, Ресто в zPHR</translation>
+        <source>Zerocoin Spend, Change in zphr</source>
+        <translation>Харчене на Zerocoin, Ресто в zphr</translation>
     </message>
     <message>
         <source>Zerocoin Spend to Self</source>
@@ -4215,8 +4215,8 @@ Please be patient...</source>
         <translation>Изпрати Монети</translation>
     </message>
     <message>
-        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 PHR.</source>
-        <translation>SwiftTX не подържа изпращането на толкова големи суми. Превода е ограничен до %1 PHR.</translation>
+        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 FTP.</source>
+        <translation>SwiftTX не подържа изпращането на толкова големи суми. Превода е ограничен до %1 FTP.</translation>
     </message>
 </context>
 <context>
@@ -4259,10 +4259,10 @@ Please be patient...</source>
     </message>
 </context>
 <context>
-    <name>ZPhrControlDialog</name>
+    <name>ZphrControlDialog</name>
     <message>
-        <source>Select zPhr to Spend</source>
-        <translation>Изберете zPHR за Изпращане</translation>
+        <source>Select zphr to Spend</source>
+        <translation>Изберете zphr за Изпращане</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4273,8 +4273,8 @@ Please be patient...</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zPhr</source>
-        <translation>zPHR</translation>
+        <source>zphr</source>
+        <translation>zphr</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4286,7 +4286,7 @@ Please be patient...</source>
     </message>
 </context>
 <context>
-    <name>phore-core</name>
+    <name>fictecpagos-core</name>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
         <translation>Промяна на поведението на автоматично финализираното гласоподаване. mode=auto: Гласувай само за точни финализирани бюджети, които съвпадат с моят генериран бюджет. (string, default:auto)</translation>
@@ -4304,8 +4304,8 @@ Please be patient...</source>
         <translation>Изтрий всички преводи от портфейла и възстанови само тези части от блокчейна - сканира при стартиране.</translation>
     </message>
     <message>
-        <source>Disable all Phore specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
-        <translation>Изключи всякаква Phore функционалност (Мастърноудове, Обфускация, SwiftTX, Бюджетиране) (0-1 default: %u)</translation>
+        <source>Disable all fictecpagos specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
+        <translation>Изключи всякаква fictecpagos функционалност (Мастърноудове, Обфускация, SwiftTX, Бюджетиране) (0-1 default: %u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -4344,12 +4344,12 @@ Please be patient...</source>
         <translation>Командата влиза в сила, когато най-добрия блок се промени (%s в cmd се замества от хаш на блока)</translation>
     </message>
     <message>
-        <source>Fees (in PHR/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Такси (в PHR/Кб) по-малки от това се считат за нулеви при препращане (default: %s)</translation>
+        <source>Fees (in FTP/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Такси (в FTP/Кб) по-малки от това се считат за нулеви при препращане (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in PHR/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Такси (в PHR/Кб) по-малки от това се считат за нулеви при създаване на предовда (default: %s)</translation>
+        <source>Fees (in FTP/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Такси (в FTP/Кб) по-малки от това се считат за нулеви при създаване на предовда (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>

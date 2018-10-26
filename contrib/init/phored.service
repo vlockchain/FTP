@@ -1,19 +1,19 @@
 [Unit]
-Description=Phore's distributed currency daemon
+Description=fictecpagos's distributed currency daemon
 After=network.target
 
 [Service]
-User=phore
-Group=phore
+User=fictecpagos
+Group=fictecpagos
 
 Type=forking
-PIDFile=/var/lib/phored/phored.pid
+PIDFile=/var/lib/fictecpagosd/fictecpagosd.pid
 
-ExecStart=/usr/bin/phored -daemon -pid=/var/lib/phored/phored.pid \
-          -conf=/etc/phore/phore.conf -datadir=/var/lib/phored
+ExecStart=/usr/bin/fictecpagosd -daemon -pid=/var/lib/fictecpagosd/fictecpagosd.pid \
+          -conf=/etc/fictecpagos/fictecpagos.conf -datadir=/var/lib/fictecpagosd
 
-ExecStop=-/usr/bin/phore-cli -conf=/etc/phore/phore.conf \
-         -datadir=/var/lib/phored stop
+ExecStop=-/usr/bin/fictecpagos-cli -conf=/etc/fictecpagos/fictecpagos.conf \
+         -datadir=/var/lib/fictecpagosd stop
 
 Restart=always
 PrivateTmp=true

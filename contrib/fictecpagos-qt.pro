@@ -85,7 +85,7 @@ HEADERS += src/activemasternode.h \
            src/crypter.h \
            src/obfuscation-relay.h \
            src/obfuscation.h \
-           src/phore-config.h \
+           src/fictecpagos-config.h \
            src/db.h \
            src/eccryptoverify.h \
            src/ecwrapper.h \
@@ -143,7 +143,7 @@ HEADERS += src/activemasternode.h \
            src/compat/sanity.h \
            src/consensus/merkle.h \
            src/consensus/validation.h \
-           src/config/phore-config.h \
+           src/config/fictecpagos-config.h \
            src/crypto/common.h \
            src/crypto/hmac_sha256.h \
            src/crypto/hmac_sha512.h \
@@ -345,7 +345,7 @@ HEADERS += src/activemasternode.h \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.h \
            src/crypto/aes_helper.c \
            src/qt/bitcoinamountfield.moc \
-           src/qt/phore.moc \
+           src/qt/fictecpagos.moc \
            src/qt/intro.moc \
            src/qt/overviewpage.moc \
            src/qt/rpcconsole.moc \
@@ -387,9 +387,9 @@ SOURCES += src/activemasternode.cpp \
            src/crypter.cpp \
            src/obfuscation-relay.cpp \
            src/obfuscation.cpp \
-           src/phore-cli.cpp \
-           src/phore-tx.cpp \
-           src/phore.cpp \
+           src/fictecpagos-cli.cpp \
+           src/fictecpagos-tx.cpp \
+           src/fictecpagos.cpp \
            src/db.cpp \
            src/eccryptoverify.cpp \
            src/ecwrapper.cpp \
@@ -487,8 +487,8 @@ SOURCES += src/activemasternode.cpp \
            src/qt/coincontroltreewidget.cpp \
            src/qt/csvmodelwriter.cpp \
            src/qt/obfuscationconfig.cpp \
-           src/qt/phore.cpp \
-           src/qt/phorestrings.cpp \
+           src/qt/fictecpagos.cpp \
+           src/qt/fictecpagosstrings.cpp \
            src/qt/editaddressdialog.cpp \
            src/qt/guiutil.cpp \
            src/qt/intro.cpp \
@@ -566,7 +566,7 @@ SOURCES += src/activemasternode.cpp \
            src/test/sighash_tests.cpp \
            src/test/sigopcount_tests.cpp \
            src/test/skiplist_tests.cpp \
-           src/test/test_phore.cpp \
+           src/test/test_fictecpagos.cpp \
            src/test/timedata_tests.cpp \
            src/test/transaction_tests.cpp \
            src/test/uint256_tests.cpp \
@@ -657,21 +657,21 @@ SOURCES += src/activemasternode.cpp \
            src/leveldb/helpers/memenv/memenv.cc \
            src/leveldb/helpers/memenv/memenv_test.cc \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c
-RESOURCES += src/qt/phore.qrc src/qt/phore_locale.qrc
+RESOURCES += src/qt/fictecpagos.qrc src/qt/fictecpagos_locale.qrc
 
-TRANSLATIONS += src/qt/locale/phore_bg.ts \
-                src/qt/locale/phore_de.ts \
-                src/qt/locale/phore_en.ts \
-                src/qt/locale/phore_es.ts \
-                src/qt/locale/phore_fi.ts \
-                src/qt/locale/phore_fr.ts \
-                src/qt/locale/phore_it.ts \
-                src/qt/locale/phore_ja.ts \
-                src/qt/locale/phore_pl.ts \
-                src/qt/locale/phore_pt.ts \
-                src/qt/locale/phore_ru.ts \
-                src/qt/locale/phore_sk.ts \
-                src/qt/locale/phore_sv.ts \
-                src/qt/locale/phore_vi.ts \
-                src/qt/locale/phore_zh_CN.ts \
-                src/qt/locale/phore_zh_TW.ts
+TRANSLATIONS += src/qt/locale/fictecpagos_bg.ts \
+                src/qt/locale/fictecpagos_de.ts \
+                src/qt/locale/fictecpagos_en.ts \
+                src/qt/locale/fictecpagos_es.ts \
+                src/qt/locale/fictecpagos_fi.ts \
+                src/qt/locale/fictecpagos_fr.ts \
+                src/qt/locale/fictecpagos_it.ts \
+                src/qt/locale/fictecpagos_ja.ts \
+                src/qt/locale/fictecpagos_pl.ts \
+                src/qt/locale/fictecpagos_pt.ts \
+                src/qt/locale/fictecpagos_ru.ts \
+                src/qt/locale/fictecpagos_sk.ts \
+                src/qt/locale/fictecpagos_sv.ts \
+                src/qt/locale/fictecpagos_vi.ts \
+                src/qt/locale/fictecpagos_zh_CN.ts \
+                src/qt/locale/fictecpagos_zh_TW.ts

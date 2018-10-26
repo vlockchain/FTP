@@ -58,12 +58,12 @@
         <translation>Mottagar adresser</translation>
     </message>
     <message>
-        <source>These are your Phore addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Det här är dina Phore adresser för att sända betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
+        <source>These are your fictecpagos addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Det här är dina fictecpagos adresser för att sända betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
     </message>
     <message>
-        <source>These are your Phore addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Det här är dina Phore adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
+        <source>These are your fictecpagos addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Det här är dina fictecpagos adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -160,16 +160,16 @@
         <translation>Bekräfta plånboks krypering</translation>
     </message>
     <message>
-        <source>Phore will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your PHRs from being stolen by malware infecting your computer.</source>
-        <translation>Phore kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina PHRs från att bli stulna av skadeprogram som infekterat din dator.</translation>
+        <source>fictecpagos will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your phrs from being stolen by malware infecting your computer.</source>
+        <translation>fictecpagos kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina phrs från att bli stulna av skadeprogram som infekterat din dator.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Är du säker på att du vill kryptera din plånbok?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PHR&lt;/b&gt;!</source>
-        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA PHR&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FTP&lt;/b&gt;!</source>
+        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA FTP&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -223,8 +223,8 @@
         <translation>BIP 38 Kryptering</translation>
     </message>
     <message>
-        <source>Enter a Phore Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Ange en Phore adress som du vill kryptera med BIP 38.
+        <source>Enter a fictecpagos Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Ange en fictecpagos adress som du vill kryptera med BIP 38.
 Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den krypterade privata nyckeln.</translation>
     </message>
     <message>
@@ -232,8 +232,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Adress:</translation>
     </message>
     <message>
-        <source>The Phore address to sign the message with</source>
-        <translation>Phore adressen för signera meddelandet med</translation>
+        <source>The fictecpagos address to sign the message with</source>
+        <translation>fictecpagos adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -264,8 +264,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Phore address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna Phore adress</translation>
+        <source>Sign the message to prove you own this fictecpagos address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna fictecpagos adress</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -288,12 +288,12 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Ange BIP 38 krypterade privata nyckeln. Ange lösenfrasen i med mittersta boxen. Tryck på krypetra nyckel för att beräkna den privata nyckeln. Efter att nyckeln är avkrypterad, Tryck på 'Importera Adress' kommer att lägga till denna privata nyckel till plånboken.</translation>
     </message>
     <message>
-        <source>The Phore address the message was signed with</source>
-        <translation>Phore adressen meddelandet blev signerat med</translation>
+        <source>The fictecpagos address the message was signed with</source>
+        <translation>fictecpagos adressen meddelandet blev signerat med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Phore address</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika Phore adressen.</translation>
+        <source>Verify the message to ensure it was signed with the specified fictecpagos address</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika fictecpagos adressen.</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -583,16 +583,16 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>flik vertygsrad</translation>
     </message>
     <message>
-        <source>Phore Core</source>
-        <translation>Phore Kärna</translation>
+        <source>fictecpagos Core</source>
+        <translation>fictecpagos Kärna</translation>
     </message>
     <message>
-        <source>Send coins to a Phore address</source>
-        <translation>Skicka mynt till en Phore adress</translation>
+        <source>Send coins to a fictecpagos address</source>
+        <translation>Skicka mynt till en fictecpagos adress</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and phore: URIs)</source>
-        <translation>Begär betalning (genererar QR kod och phore: URls)</translation>
+        <source>Request payments (generates QR codes and fictecpagos: URIs)</source>
+        <translation>Begär betalning (genererar QR kod och fictecpagos: URls)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -603,24 +603,24 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Utforska masternoder</translation>
     </message>
     <message>
-        <source>&amp;About Phore Core</source>
-        <translation>Om Phore Kärnan</translation>
+        <source>&amp;About fictecpagos Core</source>
+        <translation>Om fictecpagos Kärnan</translation>
     </message>
     <message>
-        <source>Show information about Phore Core</source>
-        <translation>Visa information om Phore Kärnan</translation>
+        <source>Show information about fictecpagos Core</source>
+        <translation>Visa information om fictecpagos Kärnan</translation>
     </message>
     <message>
-        <source>Modify configuration options for Phore</source>
-        <translation>Ändra konfigurationsval för Phore</translation>
+        <source>Modify configuration options for fictecpagos</source>
+        <translation>Ändra konfigurationsval för fictecpagos</translation>
     </message>
     <message>
-        <source>Sign messages with your Phore addresses to prove you own them</source>
-        <translation>Signera meddelanden med din Phore adress för att visa att du äger dem</translation>
+        <source>Sign messages with your fictecpagos addresses to prove you own them</source>
+        <translation>Signera meddelanden med din fictecpagos adress för att visa att du äger dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Phore addresses</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika Phore adressen.</translation>
+        <source>Verify messages to ensure they were signed with specified fictecpagos addresses</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika fictecpagos adressen.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -631,8 +631,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Kryptera och avkryptera privata nycklar genom användning av lösenfras</translation>
     </message>
     <message>
-        <source>Phore Core client</source>
-        <translation>Phore kärn klient</translation>
+        <source>fictecpagos Core client</source>
+        <translation>fictecpagos kärn klient</translation>
     </message>
     <message>
         <source>%1 and %2</source>
@@ -837,15 +837,15 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Phore Core</source>
-        <translation>Phore Kärna</translation>
+        <source>fictecpagos Core</source>
+        <translation>fictecpagos Kärna</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Phore Core</source>
-        <translation>Phore Kärna</translation>
+        <source>fictecpagos Core</source>
+        <translation>fictecpagos Kärna</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1157,8 +1157,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Phore address to sign the message with</source>
-        <translation>Phore adressen för signera meddelandet med</translation>
+        <source>The fictecpagos address to sign the message with</source>
+        <translation>fictecpagos adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1181,16 +1181,16 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Phore address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna Phore adress</translation>
+        <source>Sign the message to prove you own this fictecpagos address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna fictecpagos adress</translation>
     </message>
     <message>
-        <source>The Phore address the message was signed with</source>
-        <translation>Phore adressen meddelandet blev signerat med</translation>
+        <source>The fictecpagos address the message was signed with</source>
+        <translation>fictecpagos adressen meddelandet blev signerat med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Phore address</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika Phore adressen.</translation>
+        <source>Verify the message to ensure it was signed with the specified fictecpagos address</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika fictecpagos adressen.</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1232,8 +1232,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Phore Core</source>
-        <translation>Phore Kärna</translation>
+        <source>fictecpagos Core</source>
+        <translation>fictecpagos Kärna</translation>
     </message>
     </context>
 <context>
@@ -1416,10 +1416,10 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
     </message>
     </context>
 <context>
-    <name>ZPhrControlDialog</name>
+    <name>ZphrControlDialog</name>
     </context>
 <context>
-    <name>phore-core</name>
+    <name>fictecpagos-core</name>
     <message>
         <source>Error</source>
         <translation>Fel</translation>

@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2017 The Phore developers
+// Copyright (c) 2017 The fictecpagos developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -265,10 +265,10 @@ UniValue stop(const UniValue& params, bool fHelp)
     if (fHelp || params.size() > 1)
         throw runtime_error(
             "stop\n"
-            "\nStop Phore server.");
+            "\nStop fictecpagos server.");
     // Shutdown will take long enough that the response should get back
     StartShutdown();
-    return "Phore server stopping";
+    return "fictecpagos server stopping";
 }
 
 
@@ -352,38 +352,38 @@ static const CRPCCommand vRPCCommands[] =
         {"hidden", "reconsiderblock", &reconsiderblock, true, true, false},
         {"hidden", "setmocktime", &setmocktime, true, false, false},
 
-        /* Phore features */
-        {"phore", "masternode", &masternode, true, true, false},
-        {"phore", "listmasternodes", &listmasternodes, true, true, false},
-        {"phore", "createmasternodebroadcast", &createmasternodebroadcast, true, true, false},
-        {"phore", "decodemasternodebroadcast", &decodemasternodebroadcast, true, true, false},
-        {"phore", "relaymasternodebroadcast", &relaymasternodebroadcast, true, true, false},
-        {"phore", "getmasternodecount", &getmasternodecount, true, true, false},
-        {"phore", "masternodeconnect", &masternodeconnect, true, true, false},
-        {"phore", "masternodecurrent", &masternodecurrent, true, true, false},
-        {"phore", "masternodedebug", &masternodedebug, true, true, false},
-        {"phore", "startmasternode", &startmasternode, true, true, false},
-        {"phore", "createmasternodekey", &createmasternodekey, true, true, false},
-        {"phore", "getmasternodeoutputs", &getmasternodeoutputs, true, true, false},
-        {"phore", "listmasternodeconf", &listmasternodeconf, true, true, false},
-        {"phore", "getmasternodestatus", &getmasternodestatus, true, true, false},
-        {"phore", "getmasternodewinners", &getmasternodewinners, true, true, false},
-        {"phore", "getmasternodescores", &getmasternodescores, true, true, false},
-        {"phore", "mnbudget", &mnbudget, true, true, false},
-        {"phore", "preparebudget", &preparebudget, true, true, false},
-        {"phore", "submitbudget", &submitbudget, true, true, false},
-        {"phore", "mnbudgetvote", &mnbudgetvote, true, true, false},
-        {"phore", "getbudgetvotes", &getbudgetvotes, true, true, false},
-        {"phore", "getnextsuperblock", &getnextsuperblock, true, true, false},
-        {"phore", "getbudgetprojection", &getbudgetprojection, true, true, false},
-        {"phore", "getbudgetinfo", &getbudgetinfo, true, true, false},
-        {"phore", "mnbudgetrawvote", &mnbudgetrawvote, true, true, false},
-        {"phore", "mnfinalbudget", &mnfinalbudget, true, true, false},
-        {"phore", "checkbudgets", &checkbudgets, true, true, false},
-        {"phore", "mnsync", &mnsync, true, true, false},
-        {"phore", "spork", &spork, true, true, false},
-        {"phore", "getpoolinfo", &getpoolinfo, true, true, false},
-        {"phore", "makekeypair", &makekeypair, true, true, false},
+        /* fictecpagos features */
+        {"fictecpagos", "masternode", &masternode, true, true, false},
+        {"fictecpagos", "listmasternodes", &listmasternodes, true, true, false},
+        {"fictecpagos", "createmasternodebroadcast", &createmasternodebroadcast, true, true, false},
+        {"fictecpagos", "decodemasternodebroadcast", &decodemasternodebroadcast, true, true, false},
+        {"fictecpagos", "relaymasternodebroadcast", &relaymasternodebroadcast, true, true, false},
+        {"fictecpagos", "getmasternodecount", &getmasternodecount, true, true, false},
+        {"fictecpagos", "masternodeconnect", &masternodeconnect, true, true, false},
+        {"fictecpagos", "masternodecurrent", &masternodecurrent, true, true, false},
+        {"fictecpagos", "masternodedebug", &masternodedebug, true, true, false},
+        {"fictecpagos", "startmasternode", &startmasternode, true, true, false},
+        {"fictecpagos", "createmasternodekey", &createmasternodekey, true, true, false},
+        {"fictecpagos", "getmasternodeoutputs", &getmasternodeoutputs, true, true, false},
+        {"fictecpagos", "listmasternodeconf", &listmasternodeconf, true, true, false},
+        {"fictecpagos", "getmasternodestatus", &getmasternodestatus, true, true, false},
+        {"fictecpagos", "getmasternodewinners", &getmasternodewinners, true, true, false},
+        {"fictecpagos", "getmasternodescores", &getmasternodescores, true, true, false},
+        {"fictecpagos", "mnbudget", &mnbudget, true, true, false},
+        {"fictecpagos", "preparebudget", &preparebudget, true, true, false},
+        {"fictecpagos", "submitbudget", &submitbudget, true, true, false},
+        {"fictecpagos", "mnbudgetvote", &mnbudgetvote, true, true, false},
+        {"fictecpagos", "getbudgetvotes", &getbudgetvotes, true, true, false},
+        {"fictecpagos", "getnextsuperblock", &getnextsuperblock, true, true, false},
+        {"fictecpagos", "getbudgetprojection", &getbudgetprojection, true, true, false},
+        {"fictecpagos", "getbudgetinfo", &getbudgetinfo, true, true, false},
+        {"fictecpagos", "mnbudgetrawvote", &mnbudgetrawvote, true, true, false},
+        {"fictecpagos", "mnfinalbudget", &mnfinalbudget, true, true, false},
+        {"fictecpagos", "checkbudgets", &checkbudgets, true, true, false},
+        {"fictecpagos", "mnsync", &mnsync, true, true, false},
+        {"fictecpagos", "spork", &spork, true, true, false},
+        {"fictecpagos", "getpoolinfo", &getpoolinfo, true, true, false},
+        {"fictecpagos", "makekeypair", &makekeypair, true, true, false},
 #ifdef ENABLE_WALLET
         /* Wallet */
         {"wallet", "addmultisigaddress", &addmultisigaddress, true, false, true},
@@ -615,14 +615,14 @@ std::vector<std::string> CRPCTable::listCommands() const
 
 std::string HelpExampleCli(string methodname, string args)
 {
-    return "> phore-cli " + methodname + " " + args + "\n";
+    return "> fictecpagos-cli " + methodname + " " + args + "\n";
 }
 
 std::string HelpExampleRpc(string methodname, string args)
 {
     return "> curl --user myusername --data-binary '{\"jsonrpc\": \"1.0\", \"id\":\"curltest\", "
            "\"method\": \"" +
-           methodname + "\", \"params\": [" + args + "] }' -H 'content-type: text/plain;' http://127.0.0.1:11772/\n";
+           methodname + "\", \"params\": [" + args + "] }' -H 'content-type: text/plain;' http://127.0.0.1:77332/\n";
 }
 
 void RPCRegisterTimerInterface(RPCTimerInterface *iface)

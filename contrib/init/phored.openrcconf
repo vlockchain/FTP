@@ -1,25 +1,25 @@
-# /etc/conf.d/phored: config file for /etc/init.d/phored
+# /etc/conf.d/fictecpagosd: config file for /etc/init.d/fictecpagosd
 
 # Config file location
-#BITCOIND_CONFIGFILE="/etc/phore/phore.conf"
+#BITCOIND_CONFIGFILE="/etc/fictecpagos/fictecpagos.conf"
 
 # What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
-#BITCOIND_PIDDIR="/var/run/phored"
+#BITCOIND_PIDDIR="/var/run/fictecpagosd"
 
 # What filename to give the pidfile
-#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/phored.pid"
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/fictecpagosd.pid"
 
-# Where to write phored data (be mindful that the blockchain is large)
-#BITCOIND_DATADIR="/var/lib/phored"
+# Where to write fictecpagosd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/fictecpagosd"
 
-# User and group to own phored process
-#BITCOIND_USER="phore"
-#BITCOIND_GROUP="phore"
+# User and group to own fictecpagosd process
+#BITCOIND_USER="fictecpagos"
+#BITCOIND_GROUP="fictecpagos"
 
-# Path to phored executable
-#BITCOIND_BIN="/usr/bin/phored"
+# Path to fictecpagosd executable
+#BITCOIND_BIN="/usr/bin/fictecpagosd"
 
-# Nice value to run phored under
+# Nice value to run fictecpagosd under
 #BITCOIND_NICE=0
 
 # Additional options (avoid -conf and -datadir, use flags above)

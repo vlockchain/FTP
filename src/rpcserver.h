@@ -126,7 +126,7 @@ public:
 };
 
 /**
- * Phore RPC command dispatcher.
+ * fictecpagos RPC command dispatcher.
  */
 class CRPCTable
 {

@@ -1,6 +1,6 @@
 [Protocol]
-exec=phore-qt '%u'
-protocol=phore
+exec=fictecpagos-qt '%u'
+protocol=fictecpagos
 input=none
 output=none
 helper=true

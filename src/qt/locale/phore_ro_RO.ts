@@ -183,9 +183,9 @@
     </message>
     </context>
 <context>
-    <name>ZPhrControlDialog</name>
+    <name>ZphrControlDialog</name>
     </context>
 <context>
-    <name>phore-core</name>
+    <name>fictecpagos-core</name>
     </context>
 </TS>

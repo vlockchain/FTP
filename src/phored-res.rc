@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Phore"
-            VALUE "FileDescription",    "phored (OSS daemon/client for Phore)"
+            VALUE "CompanyName",        "fictecpagos"
+            VALUE "FileDescription",    "fictecpagosd (OSS daemon/client for fictecpagos)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "phored"
+            VALUE "InternalName",       "fictecpagosd"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "phored.exe"
-            VALUE "ProductName",        "phored"
+            VALUE "OriginalFilename",   "fictecpagosd.exe"
+            VALUE "ProductName",        "fictecpagosd"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

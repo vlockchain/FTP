@@ -325,7 +325,7 @@ RPCConsole::RPCConsole(QWidget* parent) : QDialog(parent),
     RPCRegisterTimerInterface(rpcTimerInterface);
 
     startExecutor();
-    setTrafficGraphRange(INITIAL_TRAFFIC_GRAPH_MINS);
+    setTrafficGraphrange(INITIAL_TRAFFIC_GRAPH_MINS);
 
     ui->peerHeading->setText(tr("Select a peer to view detailed information."));
 
@@ -633,7 +633,7 @@ void RPCConsole::clear()
         "td.cmd-error { color: red; } "
         "b { color: #006060; } ");
 
-    message(CMD_REPLY, (tr("Welcome to the Phore RPC console.") + "<br>" +
+    message(CMD_REPLY, (tr("Welcome to the fictecpagos RPC console.") + "<br>" +
                            tr("Use up and down arrows to navigate history, and <b>Ctrl-L</b> to clear screen.") + "<br>" +
                            tr("Type <b>help</b> for an overview of available commands.")),
         true);
@@ -765,11 +765,11 @@ void RPCConsole::scrollToEnd()
     scrollbar->setValue(scrollbar->maximum());
 }
 
-void RPCConsole::on_sldGraphRange_valueChanged(int value)
+void RPCConsole::on_sldGraphrange_valueChanged(int value)
 {
     const int multiplier = 5; // each position on the slider represents 5 min
     int mins = value * multiplier;
-    setTrafficGraphRange(mins);
+    setTrafficGraphrange(mins);
 }
 
 QString RPCConsole::FormatBytes(quint64 bytes)
@@ -784,10 +784,10 @@ QString RPCConsole::FormatBytes(quint64 bytes)
     return QString(tr("%1 GB")).arg(bytes / 1024 / 1024 / 1024);
 }
 
-void RPCConsole::setTrafficGraphRange(int mins)
+void RPCConsole::setTrafficGraphrange(int mins)
 {
-    ui->trafficGraph->setGraphRangeMins(mins);
-    ui->lblGraphRange->setText(GUIUtil::formatDurationStr(mins * 60));
+    ui->trafficGraph->setGraphrangeMins(mins);
+    ui->lblGraphrange->setText(GUIUtil::formatDurationStr(mins * 60));
 }
 
 void RPCConsole::updateTrafficStats(quint64 totalBytesIn, quint64 totalBytesOut)

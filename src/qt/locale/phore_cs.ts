@@ -62,12 +62,12 @@
         <translation>Adresy pro přijetí peněz</translation>
     </message>
     <message>
-        <source>These are your Phore addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto jsou Vaše Phore adresy pro poslání platby. Vždy si překontrolujte množství peněz a cílovou adresu než platbu odešlete.</translation>
+        <source>These are your fictecpagos addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto jsou Vaše fictecpagos adresy pro poslání platby. Vždy si překontrolujte množství peněz a cílovou adresu než platbu odešlete.</translation>
     </message>
     <message>
-        <source>These are your Phore addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto jsou Vaše Phore adresy pro přijetí plateb. Je doporučeno použít novou adresu pro každou novou transakci.</translation>
+        <source>These are your fictecpagos addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto jsou Vaše fictecpagos adresy pro přijetí plateb. Je doporučeno použít novou adresu pro každou novou transakci.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Potvrdit zašifrování peněženky</translation>
     </message>
     <message>
-        <source>Phore will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your PHRs from being stolen by malware infecting your computer.</source>
-        <translation>Phore se teď zavře pro dokončení šifrovacího procesu. Prosím, vemte na vědomí, že zašifrování Vaší peněženky plně neochrání Vaše PHRy před krádží, pokud je Váš počítač infikován malwarem.</translation>
+        <source>fictecpagos will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your phrs from being stolen by malware infecting your computer.</source>
+        <translation>fictecpagos se teď zavře pro dokončení šifrovacího procesu. Prosím, vemte na vědomí, že zašifrování Vaší peněženky plně neochrání Vaše phry před krádží, pokud je Váš počítač infikován malwarem.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Opravdu chcete zašifrovat Vaši peněženku?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PHR&lt;/b&gt;!</source>
-        <translation>Varování: Pokud zašifrujete svou peněženku a ztratíte frázové heslo, tak &lt;b&gt;ZTRATÍTE VŠECHNY VAŠE PHRy&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FTP&lt;/b&gt;!</source>
+        <translation>Varování: Pokud zašifrujete svou peněženku a ztratíte frázové heslo, tak &lt;b&gt;ZTRATÍTE VŠECHNY VAŠE phry&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -239,16 +239,16 @@
         <translation>&amp;BIP 38 Šifrovat</translation>
     </message>
     <message>
-        <source>Enter a Phore Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Zadejte Phore adresu, kterou si přejete zašifrovat pomocí BIP38. Frázové heslo zadejte do prostředního boxu. Stiskněte šifrovat pro výpočet šifrovaného privátního klíče.</translation>
+        <source>Enter a fictecpagos Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Zadejte fictecpagos adresu, kterou si přejete zašifrovat pomocí BIP38. Frázové heslo zadejte do prostředního boxu. Stiskněte šifrovat pro výpočet šifrovaného privátního klíče.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Adresa:</translation>
     </message>
     <message>
-        <source>The Phore address to sign the message with</source>
-        <translation>Phore adresa pro podepsání zprávy</translation>
+        <source>The fictecpagos address to sign the message with</source>
+        <translation>fictecpagos adresa pro podepsání zprávy</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Kopírovat aktuální podpis do systémové mezipaměti</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Phore address</source>
-        <translation>Podepsat zprávu k prokázání, že vlastníte tuto Phore adresu</translation>
+        <source>Sign the message to prove you own this fictecpagos address</source>
+        <translation>Podepsat zprávu k prokázání, že vlastníte tuto fictecpagos adresu</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Vložte BIP 38 šifrovaný privítní klíc. Frázové heslo vložte do prostředního boxu. Kliknětě na Dešifrovat Klíč pro výpočet privátního klíče. Poté co bude klíč dešifrován, kliknutím na 'Importovat Adresu' přidáte privátní klíč do Vaší peněženky.</translation>
     </message>
     <message>
-        <source>The Phore address the message was signed with</source>
-        <translation>Phore adresa zprávy byla podpsána</translation>
+        <source>The fictecpagos address the message was signed with</source>
+        <translation>fictecpagos adresa zprávy byla podpsána</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Phore address</source>
-        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou Phore adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified fictecpagos address</source>
+        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou fictecpagos adresou</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -598,16 +598,16 @@
         <translation>Nástrojová lišta záložek</translation>
     </message>
     <message>
-        <source>Phore Core</source>
-        <translation>Phore Core</translation>
+        <source>fictecpagos Core</source>
+        <translation>fictecpagos Core</translation>
     </message>
     <message>
-        <source>Send coins to a Phore address</source>
-        <translation>Odeslat platbuna Phore adresu</translation>
+        <source>Send coins to a fictecpagos address</source>
+        <translation>Odeslat platbuna fictecpagos adresu</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and phore: URIs)</source>
-        <translation>Vyžádat platbu (generování QK kódu a phore: URIs)</translation>
+        <source>Request payments (generates QR codes and fictecpagos: URIs)</source>
+        <translation>Vyžádat platbu (generování QK kódu a fictecpagos: URIs)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -618,24 +618,24 @@
         <translation>Procházet masternody</translation>
     </message>
     <message>
-        <source>&amp;About Phore Core</source>
-        <translation>&amp;O Phore Core</translation>
+        <source>&amp;About fictecpagos Core</source>
+        <translation>&amp;O fictecpagos Core</translation>
     </message>
     <message>
-        <source>Show information about Phore Core</source>
-        <translation>Zobraz informace o Phore Core</translation>
+        <source>Show information about fictecpagos Core</source>
+        <translation>Zobraz informace o fictecpagos Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Phore</source>
-        <translation>Upravit možnosti konfigurace pro Phore</translation>
+        <source>Modify configuration options for fictecpagos</source>
+        <translation>Upravit možnosti konfigurace pro fictecpagos</translation>
     </message>
     <message>
-        <source>Sign messages with your Phore addresses to prove you own them</source>
-        <translation>Podepsat zprávy Vaší Phore adresou pro prokázaní, že jste jejich vlastníkem</translation>
+        <source>Sign messages with your fictecpagos addresses to prove you own them</source>
+        <translation>Podepsat zprávy Vaší fictecpagos adresou pro prokázaní, že jste jejich vlastníkem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Phore addresses</source>
-        <translation>Ověřit zprávy k zajištění, že bylypodepsány vybranými Phore adresami</translation>
+        <source>Verify messages to ensure they were signed with specified fictecpagos addresses</source>
+        <translation>Ověřit zprávy k zajištění, že bylypodepsány vybranými fictecpagos adresami</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -666,8 +666,8 @@
         <translation>Otevřít Masternodový konfigurační soubor</translation>
     </message>
     <message>
-        <source>Open a Phore: URI or payment request</source>
-        <translation>Otevřít Phore: URI nebo platební žádost</translation>
+        <source>Open a fictecpagos: URI or payment request</source>
+        <translation>Otevřít fictecpagos: URI nebo platební žádost</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -678,12 +678,12 @@
         <translation>Okno blokového průzkumníka</translation>
     </message>
     <message>
-        <source>Show the Phore Core help message to get a list with possible Phore command-line options</source>
-        <translation>Zobrazit Phore Core pomocnou zpráv pro získání seznamu možných parametrů Phore pro příkazy do příkazové řádky</translation>
+        <source>Show the fictecpagos Core help message to get a list with possible fictecpagos command-line options</source>
+        <translation>Zobrazit fictecpagos Core pomocnou zpráv pro získání seznamu možných parametrů fictecpagos pro příkazy do příkazové řádky</translation>
     </message>
     <message>
-        <source>Phore Core client</source>
-        <translation>Phore Core klient</translation>
+        <source>fictecpagos Core client</source>
+        <translation>fictecpagos Core klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -809,8 +809,8 @@ MultiSend: %1</translation>
         <translation>TextPopisku</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (phore.conf).</source>
-        <translation>Ne všechny transakce budou zobrazeny. Pro zobrazení všech transackí nastavte v konfiguračním souboru (phore.conf) txindex=1.</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (fictecpagos.conf).</source>
+        <translation>Ne všechny transakce budou zobrazeny. Pro zobrazení všech transackí nastavte v konfiguračním souboru (fictecpagos.conf) txindex=1.</translation>
     </message>
 </context>
 <context>
@@ -1066,8 +1066,8 @@ MultiSend: %1</translation>
         <translation>Upravit adresu k odeslání platby</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Phore address.</source>
-        <translation>Zadaná adresa "%1" není validní Phore adresa.</translation>
+        <source>The entered address "%1" is not a valid fictecpagos address.</source>
+        <translation>Zadaná adresa "%1" není validní fictecpagos adresa.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1112,12 +1112,12 @@ MultiSend: %1</translation>
         <translation>verze</translation>
     </message>
     <message>
-        <source>Phore Core</source>
-        <translation>Phore Core</translation>
+        <source>fictecpagos Core</source>
+        <translation>fictecpagos Core</translation>
     </message>
     <message>
-        <source>About Phore Core</source>
-        <translation>O Phore Core</translation>
+        <source>About fictecpagos Core</source>
+        <translation>O fictecpagos Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1151,16 +1151,16 @@ MultiSend: %1</translation>
         <translation>Vítejte</translation>
     </message>
     <message>
-        <source>Welcome to Phore Core.</source>
-        <translation>Vítejte v Phore Core.</translation>
+        <source>Welcome to fictecpagos Core.</source>
+        <translation>Vítejte v fictecpagos Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Phore Core will store its data.</source>
-        <translation>Při prvním spuštění programu si můžete vybrat, kam bude Phore Core ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where fictecpagos Core will store its data.</source>
+        <translation>Při prvním spuštění programu si můžete vybrat, kam bude fictecpagos Core ukládat svá data.</translation>
     </message>
     <message>
-        <source>Phore Core will download and store a copy of the Phore block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Phore Core stáhne a uloží kopii Phore blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
+        <source>fictecpagos Core will download and store a copy of the fictecpagos block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>fictecpagos Core stáhne a uloží kopii fictecpagos blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1171,8 +1171,8 @@ MultiSend: %1</translation>
         <translation>Použít vlastní složku pro data</translation>
     </message>
     <message>
-        <source>Phore Core</source>
-        <translation>Phore Core</translation>
+        <source>fictecpagos Core</source>
+        <translation>fictecpagos Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1438,24 +1438,24 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Vyberte úrpvěň ochrany soukromí</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 PHR</source>
-        <translation>Použí 2 oddělené masternody k promíchání prostředků až do 10000 PHR</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 FTP</source>
+        <translation>Použí 2 oddělené masternody k promíchání prostředků až do 10000 FTP</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Použít 16 oddělených masternodů</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 PHR to anonymize 10000 PHR</source>
-        <translation>Tato možnost je nejrychleší a bude stát zhruba ~0.025 PHR pro anonymizaci 10000 PHR</translation>
+        <source>This option is the quickest and will cost about ~0.025 FTP to anonymize 10000 FTP</source>
+        <translation>Tato možnost je nejrychleší a bude stát zhruba ~0.025 FTP pro anonymizaci 10000 FTP</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Toto je nejpomalejší a nejvíce bezpečná volba. Použití maximalní anonymity bude stát</translation>
     </message>
     <message>
-        <source>0.1 PHR per 10000 PHR you anonymize.</source>
-        <translation>0.1 PHR za 10000 PHR anonymizujete.</translation>
+        <source>0.1 FTP per 10000 FTP you anonymize.</source>
+        <translation>0.1 FTP za 10000 FTP anonymizujete.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1520,12 +1520,12 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start Phore after logging in to the system.</source>
-        <translation>Automaticky spustit Phore po přihlášení do systému</translation>
+        <source>Automatically start fictecpagos after logging in to the system.</source>
+        <translation>Automaticky spustit fictecpagos po přihlášení do systému</translation>
     </message>
     <message>
-        <source>&amp;Start Phore on system login</source>
-        <translation>&amp;Spusti Phore při přihlášení do systému</translation>
+        <source>&amp;Start fictecpagos on system login</source>
+        <translation>&amp;Spusti fictecpagos při přihlášení do systému</translation>
     </message>
     <message>
         <source>Show Masternodes Tab</source>
@@ -2057,8 +2057,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Změna:</translation>
     </message>
     <message>
-        <source>0 PHR</source>
-        <translation>0 PHR</translation>
+        <source>0 FTP</source>
+        <translation>0 FTP</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2186,8 +2186,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Phore address to sign the message with</source>
-        <translation>Phore adresa pro podepsání zprávy</translation>
+        <source>The fictecpagos address to sign the message with</source>
+        <translation>fictecpagos adresa pro podepsání zprávy</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2214,16 +2214,16 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Kopírovat aktuální podpis do systémové mezipaměti</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Phore address</source>
-        <translation>Podepsat zprávu k prokázání, že vlastníte tuto Phore adresu</translation>
+        <source>Sign the message to prove you own this fictecpagos address</source>
+        <translation>Podepsat zprávu k prokázání, že vlastníte tuto fictecpagos adresu</translation>
     </message>
     <message>
-        <source>The Phore address the message was signed with</source>
-        <translation>Phore adresa zprávy byla podpsána</translation>
+        <source>The fictecpagos address the message was signed with</source>
+        <translation>fictecpagos adresa zprávy byla podpsána</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Phore address</source>
-        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou Phore adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified fictecpagos address</source>
+        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou fictecpagos adresou</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2265,8 +2265,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Phore Core</source>
-        <translation>Phore Core</translation>
+        <source>fictecpagos Core</source>
+        <translation>fictecpagos Core</translation>
     </message>
     </context>
 <context>
@@ -2369,14 +2369,14 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
     </message>
     </context>
 <context>
-    <name>ZPhrControlDialog</name>
+    <name>ZphrControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     </context>
 <context>
-    <name>phore-core</name>
+    <name>fictecpagos-core</name>
     <message>
         <source>Error</source>
         <translation>Chyba</translation>

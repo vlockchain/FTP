@@ -62,12 +62,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your Phore addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones Phore para realizar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviar monedas.</translation>
+        <source>These are your fictecpagos addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones fictecpagos para realizar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviar monedas.</translation>
     </message>
     <message>
-        <source>These are your Phore addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones Phore para recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
+        <source>These are your fictecpagos addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son sus direcciones fictecpagos para recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Confirme el cifrado del monedero</translation>
     </message>
     <message>
-        <source>Phore will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your PHRs from being stolen by malware infecting your computer.</source>
-        <translation>Phore se cerrará para finalizar el proceso de cifrado. Recuerde que cifrar su monedero no garantiza que sus PHRs no sean robados mediante malware de su ordenador.</translation>
+        <source>fictecpagos will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your phrs from being stolen by malware infecting your computer.</source>
+        <translation>fictecpagos se cerrará para finalizar el proceso de cifrado. Recuerde que cifrar su monedero no garantiza que sus phrs no sean robados mediante malware de su ordenador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>¿Está seguro de que desea cifrar su monedero?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PHR&lt;/b&gt;!</source>
-        <translation>Atención: Si cifra su monedero y pierde su contraseña, perderá &lt;b&gt; TODOS SUS PHR&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FTP&lt;/b&gt;!</source>
+        <translation>Atención: Si cifra su monedero y pierde su contraseña, perderá &lt;b&gt; TODOS SUS FTP&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -239,16 +239,16 @@
         <translation>&amp;Cifrado BIP 38</translation>
     </message>
     <message>
-        <source>Enter a Phore Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Introduzca la dirección Phore que querría cifrar usando BIP 38. Introduzca una contraseña en el campo central. Haga clic en cifrar para generar la clave privada cifrada.</translation>
+        <source>Enter a fictecpagos Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Introduzca la dirección fictecpagos que querría cifrar usando BIP 38. Introduzca una contraseña en el campo central. Haga clic en cifrar para generar la clave privada cifrada.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Dirección:</translation>
     </message>
     <message>
-        <source>The Phore address to sign the message with</source>
-        <translation>La dirección Phore con la que desee firmar el mensaje</translation>
+        <source>The fictecpagos address to sign the message with</source>
+        <translation>La dirección fictecpagos con la que desee firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Phore address</source>
-        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección Phore</translation>
+        <source>Sign the message to prove you own this fictecpagos address</source>
+        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección fictecpagos</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Introduzca la clave cifrada privada BIP 38. Introduzca la contraseña en el campo central. Haga clic en descifrar clave para generar la clave privada. Después de que la clave sea descifrada, pulsando en 'Importar dirección' añadirá esta clave privada al monedero.</translation>
     </message>
     <message>
-        <source>The Phore address the message was signed with</source>
-        <translation>La dirección Phore con la que se firmó el mensaje</translation>
+        <source>The fictecpagos address the message was signed with</source>
+        <translation>La dirección fictecpagos con la que se firmó el mensaje</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Phore address</source>
-        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección Phore especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified fictecpagos address</source>
+        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección fictecpagos especificada</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -602,15 +602,15 @@
         <translation>Herramienta de pestañas</translation>
     </message>
     <message>
-        <source>Phore Core</source>
-        <translation>Núcleo Phore</translation>
+        <source>fictecpagos Core</source>
+        <translation>Núcleo fictecpagos</translation>
     </message>
     <message>
-        <source>Send coins to a Phore address</source>
-        <translation>Enviar coins a una dirección Phore</translation>
+        <source>Send coins to a fictecpagos address</source>
+        <translation>Enviar coins a una dirección fictecpagos</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and phore: URIs)</source>
+        <source>Request payments (generates QR codes and fictecpagos: URIs)</source>
         <translation>Solicitud de pago (genera un código QR y URIs)</translation>
     </message>
     <message>
@@ -618,8 +618,8 @@
         <translation>&amp;Privacidad</translation>
     </message>
     <message>
-        <source>Privacy Action for zPHR and Obfuscation</source>
-        <translation>Privacidad con zPHR y Ofuscación</translation>
+        <source>Privacy Action for zphr and Obfuscation</source>
+        <translation>Privacidad con zphr y Ofuscación</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -630,24 +630,24 @@
         <translation>Explorar nodos maestros</translation>
     </message>
     <message>
-        <source>&amp;About Phore Core</source>
-        <translation>&amp;Sobre el núcleo de Phore</translation>
+        <source>&amp;About fictecpagos Core</source>
+        <translation>&amp;Sobre el núcleo de fictecpagos</translation>
     </message>
     <message>
-        <source>Show information about Phore Core</source>
-        <translation>Mostrar información sobre el núcleo de Phore</translation>
+        <source>Show information about fictecpagos Core</source>
+        <translation>Mostrar información sobre el núcleo de fictecpagos</translation>
     </message>
     <message>
-        <source>Modify configuration options for Phore</source>
-        <translation>Modificar las opciones de configuración de Phore</translation>
+        <source>Modify configuration options for fictecpagos</source>
+        <translation>Modificar las opciones de configuración de fictecpagos</translation>
     </message>
     <message>
-        <source>Sign messages with your Phore addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones Phore para demostrar que le pertenecen</translation>
+        <source>Sign messages with your fictecpagos addresses to prove you own them</source>
+        <translation>Firmar mensajes con sus direcciones fictecpagos para demostrar que le pertenecen</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Phore addresses</source>
-        <translation>Verificar mensajes para asegurar que están firmados con la dirección Phore especificada</translation>
+        <source>Verify messages to ensure they were signed with specified fictecpagos addresses</source>
+        <translation>Verificar mensajes para asegurar que están firmados con la dirección fictecpagos especificada</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -678,8 +678,8 @@
         <translation>Abrir Fichero de Configuración de Nodos Maestros</translation>
     </message>
     <message>
-        <source>Open a Phore: URI or payment request</source>
-        <translation>Abrir un Phore: URI o solicitud de pago</translation>
+        <source>Open a fictecpagos: URI or payment request</source>
+        <translation>Abrir un fictecpagos: URI o solicitud de pago</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -690,16 +690,16 @@
         <translation>Ventana del explorador de bloques</translation>
     </message>
     <message>
-        <source>Show the Phore Core help message to get a list with possible Phore command-line options</source>
-        <translation>Mostrar la ayuda de Phore Core para obtener una lista de posibles opciones en línea de comandos</translation>
+        <source>Show the fictecpagos Core help message to get a list with possible fictecpagos command-line options</source>
+        <translation>Mostrar la ayuda de fictecpagos Core para obtener una lista de posibles opciones en línea de comandos</translation>
     </message>
     <message>
-        <source>Phore Core client</source>
-        <translation>Cliente Phore Core</translation>
+        <source>fictecpagos Core client</source>
+        <translation>Cliente fictecpagos Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Phore network</source>
-        <translation><numerusform>%n conexión(es) activa a la red Phore</numerusform><numerusform>%n conexion(es) activas a la red Phore</numerusform></translation>
+        <source>%n active connection(s) to fictecpagos network</source>
+        <translation><numerusform>%n conexión(es) activa a la red fictecpagos</numerusform><numerusform>%n conexion(es) activas a la red fictecpagos</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -853,8 +853,8 @@ MultiEnvío: %1</translation>
         <translation>EtiquetaDeTexto</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (phore.conf).</source>
-        <translation>No se muestran todas las transacciones. Para ver todas las transacciones introduzca la línea "txindex=1" en el archivo de configuración (phore.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (fictecpagos.conf).</source>
+        <translation>No se muestran todas las transacciones. Para ver todas las transacciones introduzca la línea "txindex=1" en el archivo de configuración (fictecpagos.conf).</translation>
     </message>
 </context>
 <context>
@@ -1142,8 +1142,8 @@ MultiEnvío: %1</translation>
         <translation>Editar dirección de envío</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Phore address.</source>
-        <translation>La dirección introducida "%1" no es una dirección Phore válida.</translation>
+        <source>The entered address "%1" is not a valid fictecpagos address.</source>
+        <translation>La dirección introducida "%1" no es una dirección fictecpagos válida.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1188,16 +1188,16 @@ MultiEnvío: %1</translation>
         <translation>versión</translation>
     </message>
     <message>
-        <source>Phore Core</source>
-        <translation>Núcleo Phore</translation>
+        <source>fictecpagos Core</source>
+        <translation>Núcleo fictecpagos</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Phore Core</source>
-        <translation>Acerca de Phore Core</translation>
+        <source>About fictecpagos Core</source>
+        <translation>Acerca de fictecpagos Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1243,16 +1243,16 @@ MultiEnvío: %1</translation>
         <translation>Bienvenido/a</translation>
     </message>
     <message>
-        <source>Welcome to Phore Core.</source>
-        <translation>Bienvenido/a a Phore Core.</translation>
+        <source>Welcome to fictecpagos Core.</source>
+        <translation>Bienvenido/a a fictecpagos Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Phore Core will store its data.</source>
-        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará Phore Core sus datos.</translation>
+        <source>As this is the first time the program is launched, you can choose where fictecpagos Core will store its data.</source>
+        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará fictecpagos Core sus datos.</translation>
     </message>
     <message>
-        <source>Phore Core will download and store a copy of the Phore block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Phore Core descargará y guardará una copia de la cadena de bloques Phore. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
+        <source>fictecpagos Core will download and store a copy of the fictecpagos block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>fictecpagos Core descargará y guardará una copia de la cadena de bloques fictecpagos. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1263,8 +1263,8 @@ MultiEnvío: %1</translation>
         <translation>Usar una carpeta de datos personalizada:</translation>
     </message>
     <message>
-        <source>Phore Core</source>
-        <translation>Núcleo Phore</translation>
+        <source>fictecpagos Core</source>
+        <translation>Núcleo fictecpagos</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1405,12 +1405,12 @@ MultiEnvío: %1</translation>
         <translation>Introduzca Dirección a la cual Enviar</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Phore addresses after it matures.
-To Add: enter percentage to give and Phore address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other fictecpagos addresses after it matures.
+To Add: enter percentage to give and fictecpagos address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiEnvío le permite enviar automáticamente hasta el 100% de recompensa de participación o de nodo maestro a una lista de otras direcciones Phore después de su maduración.
-Para Añadir: introduzca porcentaje a enviar y las direcciones Phore a añadir al vector MultiEnvío.
+        <translation>MultiEnvío le permite enviar automáticamente hasta el 100% de recompensa de participación o de nodo maestro a una lista de otras direcciones fictecpagos después de su maduración.
+Para Añadir: introduzca porcentaje a enviar y las direcciones fictecpagos a añadir al vector MultiEnvío.
 Para Eliminar: Introduzca la dirección a eliminar y pulse la tecla delete.
 MultiEnvío no se activará a menos que haga usted click en Activar</translation>
     </message>
@@ -1548,48 +1548,48 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Por favor selecciones un nivel de privacidad.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 PHR</source>
-        <translation>Use 2 nodos maestros diferentes para mezclar los fondos hasta los 10000 PHR</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 FTP</source>
+        <translation>Use 2 nodos maestros diferentes para mezclar los fondos hasta los 10000 FTP</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 PHR</source>
-        <translation>Use 8 nodos maestros diferentes para mezclar fondos hasta los 10000 PHR</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 FTP</source>
+        <translation>Use 8 nodos maestros diferentes para mezclar fondos hasta los 10000 FTP</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Use 16 nodos maestros diferentes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 PHR to anonymize 10000 PHR</source>
-        <translation>Esta opción es la más rápida y costará alrededor de ~0.025 PHR para anonimizar 10000 PHR</translation>
+        <source>This option is the quickest and will cost about ~0.025 FTP to anonymize 10000 FTP</source>
+        <translation>Esta opción es la más rápida y costará alrededor de ~0.025 FTP para anonimizar 10000 FTP</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 PHR to anonymize 10000 PHR</source>
-        <translation>Esta opción es moderadamente rápida y costará cerca de 0.05 PHR para anonimizar 10000 PHR.</translation>
+        <source>This option is moderately fast and will cost about 0.05 FTP to anonymize 10000 FTP</source>
+        <translation>Esta opción es moderadamente rápida y costará cerca de 0.05 FTP para anonimizar 10000 FTP.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Esta es la opción más lenta pero más segura. Usar el máximo anonimato costará</translation>
     </message>
     <message>
-        <source>0.1 PHR per 10000 PHR you anonymize.</source>
-        <translation>0.1 PHR por 10000 PHR que anonimizas.</translation>
+        <source>0.1 FTP per 10000 FTP you anonymize.</source>
+        <translation>0.1 FTP por 10000 FTP que anonimizas.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Configuración de Ofuscación</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Phore's configuration screen.</source>
-        <translation>La Ofuscación se configuró correctamente en modo básico (%1 y 2 rondas). Puedes cambiar esto en cualquier momento accediendo a la ventana de configuración de Phore.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening fictecpagos's configuration screen.</source>
+        <translation>La Ofuscación se configuró correctamente en modo básico (%1 y 2 rondas). Puedes cambiar esto en cualquier momento accediendo a la ventana de configuración de fictecpagos.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Phore's configuration screen.</source>
-        <translation>La Ofuscación se activó correctamente en modo alto (%1 y 8 rondas). Usted puede cambiar esto en cualquier momento abriendo la ventana de configuración de Phore.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening fictecpagos's configuration screen.</source>
+        <translation>La Ofuscación se activó correctamente en modo alto (%1 y 8 rondas). Usted puede cambiar esto en cualquier momento abriendo la ventana de configuración de fictecpagos.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Phore's configuration screen.</source>
-        <translation>La Ofuscación se activó correctamente en su grado máximo (%1 y 16 rondas). Usted puede cambiar ésto en cualquier momento en la ventana de configuración de Phore.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening fictecpagos's configuration screen.</source>
+        <translation>La Ofuscación se activó correctamente en su grado máximo (%1 y 16 rondas). Usted puede cambiar ésto en cualquier momento en la ventana de configuración de fictecpagos.</translation>
     </message>
 </context>
 <context>
@@ -1650,8 +1650,8 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Si deselecciona el gasto de cambio no confirmado, las entradas de una transacción&lt;br/&gt;no podrán ser usadas hasta que esa transacción tenga al menos una confirmación.&lt;br/&gt;Esto también afecta a cómo se calcula su balance actual.</translation>
     </message>
     <message>
-        <source>Automatically open the Phore client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente Phore en el enrutador. Ésto sólo funciona si su enrutador soporta UPnP y esta función está activada.</translation>
+        <source>Automatically open the fictecpagos client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto del cliente fictecpagos en el enrutador. Ésto sólo funciona si su enrutador soporta UPnP y esta función está activada.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1670,12 +1670,12 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Experto</translation>
     </message>
     <message>
-        <source>Automatically start Phore after logging in to the system.</source>
-        <translation>Arrancar Phore automáticamente después de identificarse en Windows.</translation>
+        <source>Automatically start fictecpagos after logging in to the system.</source>
+        <translation>Arrancar fictecpagos automáticamente después de identificarse en Windows.</translation>
     </message>
     <message>
-        <source>&amp;Start Phore on system login</source>
-        <translation>&amp;Arrancar Phore al inicio del sistema</translation>
+        <source>&amp;Start fictecpagos on system login</source>
+        <translation>&amp;Arrancar fictecpagos al inicio del sistema</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1702,38 +1702,38 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>&amp;Red</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Phore.</source>
-        <translation>El idioma de interface de usuario puede seleccionarse aquí. Este ajuste tomará efecto después de reiniciar Phore.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting fictecpagos.</source>
+        <translation>El idioma de interface de usuario puede seleccionarse aquí. Este ajuste tomará efecto después de reiniciar fictecpagos.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/phore-project/phore-project-translations</source>
+https://www.transifex.com/fictecpagos-project/fictecpagos-project-translations</source>
         <translation>¿Falta su lenguaje o la traducción está incompleta? Contribuya con las traducciones aquí:
-https://www.transifex.com/phore-project/phore-project-translations</translation>
+https://www.transifex.com/fictecpagos-project/fictecpagos-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Mapear un puerto utilizando &amp;UPnP</translation>
     </message>
     <message>
-        <source>Percentage of incoming PHR which get automatically converted to zPHR via Zerocoin Protocol (min: 10%)</source>
-        <translation>Porcentaje de PHRs entrantes que serán automáticamente convertidos a zPHR a través del Protocolo Zerocoin (mín: 10%)</translation>
+        <source>Percentage of incoming FTP which get automatically converted to zphr via Zerocoin Protocol (min: 10%)</source>
+        <translation>Porcentaje de phrs entrantes que serán automáticamente convertidos a zphr a través del Protocolo Zerocoin (mín: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zPHR</source>
-        <translation>Porcentaje de zPHR autogenerados</translation>
+        <source>Percentage of autominted zphr</source>
+        <translation>Porcentaje de zphr autogenerados</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough PHR for this denomination is available</source>
-        <translation>Retrasar la conversión automática a Zerocoin hasta que hayan suficientes PHR disponibles para este tamaño de billete</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough FTP for this denomination is available</source>
+        <translation>Retrasar la conversión automática a Zerocoin hasta que hayan suficientes FTP disponibles para este tamaño de billete</translation>
     </message>
     <message>
-        <source>Preferred Automint zPHR Denomination</source>
-        <translation>Tamaño de billete zPHR preferido en la creación automática de dinero</translation>
+        <source>Preferred Automint zphr Denomination</source>
+        <translation>Tamaño de billete zphr preferido en la creación automática de dinero</translation>
     </message>
     <message>
-        <source>Connect to the Phore network through a SOCKS5 proxy.</source>
-        <translation>Conectar a la red Phore mediante un proxy SOCKS5.</translation>
+        <source>Connect to the fictecpagos network through a SOCKS5 proxy.</source>
+        <translation>Conectar a la red fictecpagos mediante un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1863,8 +1863,8 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Formulario</translation>
     </message>
     <message>
-        <source>PHR Balances</source>
-        <translation>Balances PHR</translation>
+        <source>FTP Balances</source>
+        <translation>Balances FTP</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1891,8 +1891,8 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Recompensa de participación o de nodo maestro que aún no ha madurado</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Phore network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Phore después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the fictecpagos network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red fictecpagos después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1931,12 +1931,12 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Balances Combinados (incluyendo monedas inmaduras)</translation>
     </message>
     <message>
-        <source>PHR:</source>
-        <translation>PHR:</translation>
+        <source>FTP:</source>
+        <translation>FTP:</translation>
     </message>
     <message>
-        <source>zPHR:</source>
-        <translation>zPHR:</translation>
+        <source>zphr:</source>
+        <translation>zphr:</translation>
     </message>
     <message>
         <source>0 %</source>
@@ -1978,12 +1978,12 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Dirección de pago inválida %1</translation>
     </message>
     <message>
-        <source>Cannot start phore: click-to-pay handler</source>
-        <translation>No se puede iniciar phore: módulo click-to-pay</translation>
+        <source>Cannot start fictecpagos: click-to-pay handler</source>
+        <translation>No se puede iniciar fictecpagos: módulo click-to-pay</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Phore address or malformed URI parameters.</source>
-        <translation>¡El identificador de la dirección no puede ser analizado! Esto puede ser causado por una dirección Phore inválida o parámetros del identificador malformados.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid fictecpagos address or malformed URI parameters.</source>
+        <translation>¡El identificador de la dirección no puede ser analizado! Esto puede ser causado por una dirección fictecpagos inválida o parámetros del identificador malformados.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2064,24 +2064,24 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>PHR which were anonymized via Zerocin Protocol</source>
-        <translation>PHR que fueron anonimizados mediante Protocolo Zerocoin</translation>
+        <source>FTP which were anonymized via Zerocin Protocol</source>
+        <translation>FTP que fueron anonimizados mediante Protocolo Zerocoin</translation>
     </message>
     <message>
-        <source>Zerocoin PHR (zPHR)</source>
-        <translation>Zerocoin PHR (zPHR)</translation>
+        <source>Zerocoin FTP (zphr)</source>
+        <translation>Zerocoin FTP (zphr)</translation>
     </message>
     <message>
         <source>Zerocoin Actions:</source>
         <translation>Acciones Zerocoin:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Phore network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Phore después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the fictecpagos network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red fictecpagos después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
-        <source>Enter an amount of Phr to convert to zPhr</source>
-        <translation>Introduzca la cantidad de Phr que desea convertir a zPhr</translation>
+        <source>Enter an amount of FTP to convert to zphr</source>
+        <translation>Introduzca la cantidad de FTP que desea convertir a zphr</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2092,16 +2092,16 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zPHR</source>
-        <translation>zPHR</translation>
+        <source>zphr</source>
+        <translation>zphr</translation>
     </message>
     <message>
         <source>Available for Minting:</source>
         <translation>Disponible para Creación de moneda:</translation>
     </message>
     <message>
-        <source>0.000 000 00 PHR</source>
-        <translation>0.000 000 00 PHR</translation>
+        <source>0.000 000 00 FTP</source>
+        <translation>0.000 000 00 FTP</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2136,12 +2136,12 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Estado y/o Mensajes de la última Acción de Creación de moneda.</translation>
     </message>
     <message>
-        <source>zPhr Control</source>
-        <translation>Control zPhr</translation>
+        <source>zphr Control</source>
+        <translation>Control zphr</translation>
     </message>
     <message>
-        <source>zPhr Selected:</source>
-        <translation>zPhr Seleccionados:</translation>
+        <source>zphr Selected:</source>
+        <translation>zphr Seleccionados:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2160,8 +2160,8 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Balance disponible:</translation>
     </message>
     <message>
-        <source>0 zPHR</source>
-        <translation>0 zPHR</translation>
+        <source>0 zphr</source>
+        <translation>0 zphr</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2180,8 +2180,8 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Pagar &amp;A:</translation>
     </message>
     <message>
-        <source>The Phore address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>La dirección Phore a la que enviar el pago. Si se deja en blanco, crea un pago a usted mismo.</translation>
+        <source>The fictecpagos address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>La dirección fictecpagos a la que enviar el pago. Si se deja en blanco, crea un pago a usted mismo.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2380,8 +2380,8 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Copiar cantidad</translation>
     </message>
     <message>
-        <source>Zerocoin functionality is not enabled on the Phore network yet.</source>
-        <translation>La funcionalidad Zerocoin todavía no está habilitada en la red Phore.</translation>
+        <source>Zerocoin functionality is not enabled on the fictecpagos network yet.</source>
+        <translation>La funcionalidad Zerocoin todavía no está habilitada en la red fictecpagos.</translation>
     </message>
     <message>
         <source>Error: Your wallet is locked. Please enter the wallet passphrase first.</source>
@@ -2400,8 +2400,8 @@ https://www.transifex.com/phore-project/phore-project-translations</translation>
         <translation>Monedas creadas correctamente</translation>
     </message>
     <message>
-        <source> zPHR in </source>
-        <translation>zPHR en</translation>
+        <source> zphr in </source>
+        <translation>zphr en</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2434,8 +2434,8 @@ Por favor espere...</translation>
         <translation>No se especificó drección 'Pagar A', por lo que asumimos un pago local</translation>
     </message>
     <message>
-        <source>Invalid Phore Address</source>
-        <translation>Dirección Phore Inválida</translation>
+        <source>Invalid fictecpagos Address</source>
+        <translation>Dirección fictecpagos Inválida</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2478,8 +2478,8 @@ Por favor tenga paciencia...</translation>
         <translation>Gastar Zerocoin falló con estado =</translation>
     </message>
     <message>
-        <source>zPhr Spend #: </source>
-        <translation>Gastar zPhr #:</translation>
+        <source>zphr Spend #: </source>
+        <translation>Gastar zphr #:</translation>
     </message>
     <message>
         <source>denomination: </source>
@@ -2502,8 +2502,8 @@ Por favor tenga paciencia...</translation>
         <translation>dirección:</translation>
     </message>
     <message>
-        <source>zPhr Mint</source>
-        <translation>Creación de zPhr</translation>
+        <source>zphr Mint</source>
+        <translation>Creación de zphr</translation>
     </message>
     <message>
         <source>Sending successful, return code: </source>
@@ -2525,8 +2525,8 @@ Por favor tenga paciencia...</translation>
         <translation>Cantidad</translation>
     </message>
     <message>
-        <source>Enter a Phore address (e.g. %1)</source>
-        <translation>Introduzca una dirección Phore (p.e. %1)</translation>
+        <source>Enter a fictecpagos address (e.g. %1)</source>
+        <translation>Introduzca una dirección fictecpagos (p.e. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2663,8 +2663,8 @@ Por favor tenga paciencia...</translation>
         <translation>Cadena de bloques</translation>
     </message>
     <message>
-        <source>Open the Phore debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abrir el fichero de depuración Phore en el directorio actual de datos. Esto puede llevar unos segundos para ficheros de depuración grandes.</translation>
+        <source>Open the fictecpagos debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abrir el fichero de depuración fictecpagos en el directorio actual de datos. Esto puede llevar unos segundos para ficheros de depuración grandes.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -2831,8 +2831,8 @@ Por favor tenga paciencia...</translation>
         <translation>Fuera:</translation>
     </message>
     <message>
-        <source>Welcome to the Phore RPC console.</source>
-        <translation>Bienvenido a la consola RPC de Phore.</translation>
+        <source>Welcome to the fictecpagos RPC console.</source>
+        <translation>Bienvenido a la consola RPC de fictecpagos.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2902,12 +2902,12 @@ Por favor tenga paciencia...</translation>
         <translation>Una etiqueta opcional a asociar con la nueva dirección de recepción.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Phore network.</source>
-        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. Nota: El mensaje no se envía junto al pago por la red Phore.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the fictecpagos network.</source>
+        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. Nota: El mensaje no se envía junto al pago por la red fictecpagos.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Phore network.</source>
-        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. &lt;br&gt;Nota: El mensaje no se envía junto al pago por la red Phore.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the fictecpagos network.</source>
+        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. &lt;br&gt;Nota: El mensaje no se envía junto al pago por la red fictecpagos.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3131,8 +3131,8 @@ Por favor tenga paciencia...</translation>
         <translation>Tamaño de UTXO:</translation>
     </message>
     <message>
-        <source>0 PHR</source>
-        <translation>0 PHR</translation>
+        <source>0 FTP</source>
+        <translation>0 FTP</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3183,16 +3183,16 @@ Por favor tenga paciencia...</translation>
         <translation>Monedas seleccionadas automáticamente</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uPHRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uPHRs in fee,&lt;br /&gt;while "at least" pays 1000 uPHRs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Si la comisión personalizada se fija en 1000 uPHRs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uPHRs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uPHRs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uphrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uphrs in fee,&lt;br /&gt;while "at least" pays 1000 uphrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Si la comisión personalizada se fija en 1000 uphrs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uphrs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uphrs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uPHRs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uPHRs in fee,&lt;br /&gt;while "total at least" pays 1000 uPHRs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Si la comisión personalizada se fija en 1000 uPHRs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uPHRs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uPHRs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uphrs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uphrs in fee,&lt;br /&gt;while "total at least" pays 1000 uphrs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Si la comisión personalizada se fija en 1000 uphrs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uphrs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uphrs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Phore transactions than the network can process.</source>
-        <translation>Pagar sólo la comisión mínima está bien mientras haya menos volumen de transacciones que espacio en los bloques.&lt;br/&gt;Pero tenga en cuenta que esto podría acabar en una transacción que nunca se confirme si hay más demanda de transacciones Phore de las que la red puede procesar.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for fictecpagos transactions than the network can process.</source>
+        <translation>Pagar sólo la comisión mínima está bien mientras haya menos volumen de transacciones que espacio en los bloques.&lt;br/&gt;Pero tenga en cuenta que esto podría acabar en una transacción que nunca se confirme si hay más demanda de transacciones fictecpagos de las que la red puede procesar.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3239,8 +3239,8 @@ Por favor tenga paciencia...</translation>
         <translation>Añadir Destinata&amp;rio</translation>
     </message>
     <message>
-        <source>Anonymized PHR</source>
-        <translation>PHR anonimizados</translation>
+        <source>Anonymized FTP</source>
+        <translation>FTP anonimizados</translation>
     </message>
     <message>
         <source>SwiftTX</source>
@@ -3299,8 +3299,8 @@ Por favor tenga paciencia...</translation>
         <translation>fondos anónimos</translation>
     </message>
     <message>
-        <source>Warning: Invalid Phore address</source>
-        <translation>Advertencia: Direcciones Phore inválidas</translation>
+        <source>Warning: Invalid fictecpagos address</source>
+        <translation>Advertencia: Direcciones fictecpagos inválidas</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -3406,8 +3406,8 @@ Por favor tenga paciencia...</translation>
         <translation>Pagar &amp;A:</translation>
     </message>
     <message>
-        <source>The Phore address to send the payment to</source>
-        <translation>La dirección Phore a la cual enviar el pago</translation>
+        <source>The fictecpagos address to send the payment to</source>
+        <translation>La dirección fictecpagos a la cual enviar el pago</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3446,8 +3446,8 @@ Por favor tenga paciencia...</translation>
         <translation>Mensaje:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Phore: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Phore network.</source>
-        <translation>Un mensaje adjunto al Phore: En recurso web especificado será guardado junto a la transacción para su referencia. Nota: Este mensaje no se enviará por la red Phore.</translation>
+        <source>A message that was attached to the fictecpagos: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the fictecpagos network.</source>
+        <translation>Un mensaje adjunto al fictecpagos: En recurso web especificado será guardado junto a la transacción para su referencia. Nota: Este mensaje no se enviará por la red fictecpagos.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3473,8 +3473,8 @@ Por favor tenga paciencia...</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Phore Core is shutting down...</source>
-        <translation>El programa Phore se está cerrando...</translation>
+        <source>fictecpagos Core is shutting down...</source>
+        <translation>El programa fictecpagos se está cerrando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3496,8 +3496,8 @@ Por favor tenga paciencia...</translation>
         <translation>Usted puede firmar mensajes con su dirección para probar que son auténticos. Tenga cuidado con firmar algo corto o vago como "hola", pues los ataques de phising pueden engañarle para que firme su identidad para ellos. Sólo firme textos detallados con los que esté de acuerdo.</translation>
     </message>
     <message>
-        <source>The Phore address to sign the message with</source>
-        <translation>La dirección Phore con la que desee firmar el mensaje</translation>
+        <source>The fictecpagos address to sign the message with</source>
+        <translation>La dirección fictecpagos con la que desee firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3528,16 +3528,16 @@ Por favor tenga paciencia...</translation>
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Phore address</source>
-        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección Phore</translation>
+        <source>Sign the message to prove you own this fictecpagos address</source>
+        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección fictecpagos</translation>
     </message>
     <message>
-        <source>The Phore address the message was signed with</source>
-        <translation>La dirección Phore con la que se firmó el mensaje</translation>
+        <source>The fictecpagos address the message was signed with</source>
+        <translation>La dirección fictecpagos con la que se firmó el mensaje</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Phore address</source>
-        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección Phore especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified fictecpagos address</source>
+        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección fictecpagos especificada</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3623,8 +3623,8 @@ Por favor tenga paciencia...</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Phore Core</source>
-        <translation>Núcleo Phore</translation>
+        <source>fictecpagos Core</source>
+        <translation>Núcleo fictecpagos</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3639,8 +3639,8 @@ Por favor tenga paciencia...</translation>
         <translation>Los desarrolladores de Dash Core</translation>
     </message>
     <message>
-        <source>The Phore Core developers</source>
-        <translation>Los desarrolladores de Phore Core</translation>
+        <source>The fictecpagos Core developers</source>
+        <translation>Los desarrolladores de fictecpagos Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3959,32 +3959,32 @@ Por favor tenga paciencia...</translation>
         <translation>Ofuscado</translation>
     </message>
     <message>
-        <source>Converted Phr to zPhr</source>
-        <translation>Phr convertidos a zPhr</translation>
+        <source>Converted FTP to zphr</source>
+        <translation>FTP convertidos a zphr</translation>
     </message>
     <message>
-        <source>Spent zPhr</source>
-        <translation>zPhr Gastados</translation>
+        <source>Spent zphr</source>
+        <translation>zphr Gastados</translation>
     </message>
     <message>
-        <source>Received Phr from zPhr</source>
-        <translation>Phr recibidos desde zPhr</translation>
+        <source>Received FTP from zphr</source>
+        <translation>FTP recibidos desde zphr</translation>
     </message>
     <message>
-        <source>Minted Change as zPhr from zPhr Spend</source>
-        <translation>Cambio Creado en zPhr por un Gasto zPhr</translation>
+        <source>Minted Change as zphr from zphr Spend</source>
+        <translation>Cambio Creado en zphr por un Gasto zphr</translation>
     </message>
     <message>
-        <source>Converted zPhr to Phr</source>
-        <translation>zPhr convertidos en Phr</translation>
+        <source>Converted zphr to FTP</source>
+        <translation>zphr convertidos en FTP</translation>
     </message>
     <message>
         <source>watch-only</source>
         <translation>sólo-lectura</translation>
     </message>
     <message>
-        <source>zPhr Accumulator</source>
-        <translation>Acumulador zPhr</translation>
+        <source>zphr Accumulator</source>
+        <translation>Acumulador zphr</translation>
     </message>
     <message>
         <source>(n/a)</source>
@@ -4094,8 +4094,8 @@ Por favor tenga paciencia...</translation>
         <translation>Recompensa de Nodo Maestro</translation>
     </message>
     <message>
-        <source>Received Phr from zPhr</source>
-        <translation>Phr recibidos desde zPhr</translation>
+        <source>Received FTP from zphr</source>
+        <translation>FTP recibidos desde zphr</translation>
     </message>
     <message>
         <source>Zerocoin Mint</source>
@@ -4106,8 +4106,8 @@ Por favor tenga paciencia...</translation>
         <translation>Gasto de Zerocoin</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zPhr</source>
-        <translation>Gasto de Zerocoin, Cambio en zPhr</translation>
+        <source>Zerocoin Spend, Change in zphr</source>
+        <translation>Gasto de Zerocoin, Cambio en zphr</translation>
     </message>
     <message>
         <source>Zerocoin Spend to Self</source>
@@ -4231,8 +4231,8 @@ Por favor tenga paciencia...</translation>
         <translation>Enviar Monedas</translation>
     </message>
     <message>
-        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 PHR.</source>
-        <translation>SwiftTX no soporta el envío de importes tan altos todavía. Las transacciones están actualmente limitadas a %1 PHR.</translation>
+        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 FTP.</source>
+        <translation>SwiftTX no soporta el envío de importes tan altos todavía. Las transacciones están actualmente limitadas a %1 FTP.</translation>
     </message>
 </context>
 <context>
@@ -4275,10 +4275,10 @@ Por favor tenga paciencia...</translation>
     </message>
 </context>
 <context>
-    <name>ZPhrControlDialog</name>
+    <name>ZphrControlDialog</name>
     <message>
-        <source>Select zPhr to Spend</source>
-        <translation>Seleccione zPhr a Gastar</translation>
+        <source>Select zphr to Spend</source>
+        <translation>Seleccione zphr a Gastar</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4289,8 +4289,8 @@ Por favor tenga paciencia...</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zPhr</source>
-        <translation>zPhr</translation>
+        <source>zphr</source>
+        <translation>zphr</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4302,7 +4302,7 @@ Por favor tenga paciencia...</translation>
     </message>
 </context>
 <context>
-    <name>phore-core</name>
+    <name>fictecpagos-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1= mantener los metadatos tx p.e. dueño de la cuenta e información de la solicitud de pago, 2 = ignorar metadatos tx)</translation>
@@ -4332,8 +4332,8 @@ Por favor tenga paciencia...</translation>
         <translation>El punto de chequeo del acumulador que hemos calculado no coincide con lo guardado en el índice de bloques</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Phore Core is probably already running.</source>
-        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. Phore Core esta probablemente en ejecución.</translation>
+        <source>Cannot obtain a lock on data directory %s. fictecpagos Core is probably already running.</source>
+        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. fictecpagos Core esta probablemente en ejecución.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4352,8 +4352,8 @@ Por favor tenga paciencia...</translation>
         <translation>Borrar todas las transacciones del monedero y solo recuperar partes de la cadena de bloque a traves de -rescan al inicio.</translation>
     </message>
     <message>
-        <source>Disable all Phore specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
-        <translation>Desabilitar toda la funcionalidad especifica Phore (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, predeterminado: %u)</translation>
+        <source>Disable all fictecpagos specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
+        <translation>Desabilitar toda la funcionalidad especifica fictecpagos (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, predeterminado: %u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -4392,12 +4392,12 @@ Por favor tenga paciencia...</translation>
         <translation>Ejecutar comando cuando el mejor bloque cambie (%s en cmd es reemplazado por el block hash)</translation>
     </message>
     <message>
-        <source>Fees (in PHR/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Comisiones (en PHR/Kb) menores a esta son consideradas gratuitas para la propagación de la transacción (default: %s)</translation>
+        <source>Fees (in FTP/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Comisiones (en FTP/Kb) menores a esta son consideradas gratuitas para la propagación de la transacción (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in PHR/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Comisiones (en PHR/Kb) menores a esta son consideradas gratuitas para la creación de la transacción (default: %s)</translation>
+        <source>Fees (in FTP/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Comisiones (en FTP/Kb) menores a esta son consideradas gratuitas para la creación de la transacción (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -4496,44 +4496,44 @@ Por favor tenga paciencia...</translation>
         <translation>Este producto incluye software desarrollado por el Proyecto OpenSSL para uso en OpenSSL Toolkit &lt;https://www.openssl.org/&gt; y software de cifrado escrito por Eric Young y software de UPnP escrito por Thomas Bernard.</translation>
     </message>
     <message>
-        <source>To use phored, or the -server option to phore-qt, you must set an rpcpassword in the configuration file:
+        <source>To use fictecpagosd, or the -server option to fictecpagos-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=phorerpc
+rpcuser=fictecpagosrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Phore Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "fictecpagos Alert" admin@foo.com
 </source>
-        <translation>Para usar phored, o la opción -server de phore-qt, debes definir un rpcpassword en el archivo de configuración:
+        <translation>Para usar fictecpagosd, o la opción -server de fictecpagos-qt, debes definir un rpcpassword en el archivo de configuración:
 %s
 Es recomendado que uses la siguiente contraseña aleatoria:
-rpcuser=phore
+rpcuser=fictecpagos
 rpcrpcpassword=%s
 (No necesitas recordar esta contraseña)
 El nombre de usuario y contraseña NO DEBEN ser los mismos.
 Si el archivo no existe, crearlo con permisos de solo lectura para el propietario.
 También es recomendado definir alertnotify de manera que seas notificado de problemas;
-por ejemplo: alertnotify=echo %%s | mail -s "Phore Alert" admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s "fictecpagos Alert" admin@foo.com
 </translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Phore Core is probably already running.</source>
-        <translation>Imposible conectar a %s en esta computadora. Es probable que Phore Core ya este corriendo.</translation>
+        <source>Unable to bind to %s on this computer. fictecpagos Core is probably already running.</source>
+        <translation>Imposible conectar a %s en esta computadora. Es probable que fictecpagos Core ya este corriendo.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Imposible localizar suficientes fondos denominados de Ofuscación para esta transacción.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 PHR.</source>
-        <translation>Imposible localizar suficientes fondos no-denominados de Ofuscación para esta transacción que no es igual a 10000 PHR.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 FTP.</source>
+        <translation>Imposible localizar suficientes fondos no-denominados de Ofuscación para esta transacción que no es igual a 10000 FTP.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 PHR.</source>
-        <translation>Imposible localizar fondos suficientes para esta transacción que no es igual a 10000 PHR.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 FTP.</source>
+        <translation>Imposible localizar fondos suficientes para esta transacción que no es igual a 10000 FTP.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4548,8 +4548,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Phore Alert" admin@foo.com
         <translation>Advertencia: -paytxfee esta muy alta! Esta es la comisión de transacción que pagarás si envías una transacción.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Phore Core will not work properly.</source>
-        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora Phore Core no funcionará adecuadamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong fictecpagos Core will not work properly.</source>
+        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora fictecpagos Core no funcionará adecuadamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4580,8 +4580,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Phore Alert" admin@foo.com
         <translation>Debes especificar un masternodeprivkey en la configuración. Por favor mira la documentación por ayuda.</translation>
     </message>
     <message>
-        <source>(11771 could be used only on mainnet)</source>
-        <translation>(11771 puede ser utilizado solo en mainnet)</translation>
+        <source>(77331 could be used only on mainnet)</source>
+        <translation>(77331 puede ser utilizado solo en mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4592,8 +4592,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Phore Alert" admin@foo.com
         <translation>(predeterminado: 1)</translation>
     </message>
     <message>
-        <source>(must be 11771 for mainnet)</source>
-        <translation>(debe ser 11771 para un mainnet)</translation>
+        <source>(must be 77331 for mainnet)</source>
+        <translation>(debe ser 77331 para un mainnet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
@@ -4704,8 +4704,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Phore Alert" admin@foo.com
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Phore Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Phore Core Developers</translation>
+        <source>Copyright (C) 2015-%i The fictecpagos Core Developers</source>
+        <translation>Copyright (C) 2015-%i The fictecpagos Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4784,8 +4784,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Phore Alert" admin@foo.com
         <translation>Error al cargar wallet.dat: Billetera dañada</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Phore Core</source>
-        <translation>Error al cargar wallet.dat: La Billetera requiere una nueva versión del Núcleo Phore</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of fictecpagos Core</source>
+        <translation>Error al cargar wallet.dat: La Billetera requiere una nueva versión del Núcleo fictecpagos</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4836,8 +4836,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Phore Alert" admin@foo.com
         <translation>Falló al leer el bloque</translation>
     </message>
     <message>
-        <source>Fee (in PHR/kB) to add to transactions you send (default: %s)</source>
-        <translation>Comisión (en PHR/kB) para agregar a la transacción que envías (predeterminado: %s)</translation>
+        <source>Fee (in FTP/kB) to add to transactions you send (default: %s)</source>
+        <translation>Comisión (en FTP/kB) para agregar a la transacción que envías (predeterminado: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -4896,8 +4896,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Phore Alert" admin@foo.com
         <translation>Información</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Phore Core is shutting down.</source>
-        <translation>La prueba de salud de inicialización ha fallado. Phore Core se cerrará.</translation>
+        <source>Initialization sanity check failed. fictecpagos Core is shutting down.</source>
+        <translation>La prueba de salud de inicialización ha fallado. fictecpagos Core se cerrará.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5572,8 +5572,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Phore Alert" admin@foo.com
         <translation>Monedero bloqueado.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Phore Core to complete</source>
-        <translation>Monedero necesita ser reescrito: reinicie Phore Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart fictecpagos Core to complete</source>
+        <translation>Monedero necesita ser reescrito: reinicie fictecpagos Core para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

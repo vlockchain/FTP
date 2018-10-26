@@ -1,21 +1,21 @@
 
 Debian
 ====================
-This directory contains files used to package phored/phore-qt
-for Debian-based Linux systems. If you compile phored/phore-qt yourself, there are some useful files here.
+This directory contains files used to package fictecpagosd/fictecpagos-qt
+for Debian-based Linux systems. If you compile fictecpagosd/fictecpagos-qt yourself, there are some useful files here.
 
-## phore: URI support ##
+## fictecpagos: URI support ##
 
 
-phore-qt.desktop  (Gnome / Open Desktop)
+fictecpagos-qt.desktop  (Gnome / Open Desktop)
 To install:
 
-	sudo desktop-file-install phore-qt.desktop
+	sudo desktop-file-install fictecpagos-qt.desktop
 	sudo update-desktop-database
 
 If you build yourself, you will either need to modify the paths in
-the .desktop file or copy or symlink your phoreqt binary to `/usr/bin`
-and the `../../share/pixmaps/phore128.png` to `/usr/share/pixmaps`
+the .desktop file or copy or symlink your fictecpagosqt binary to `/usr/bin`
+and the `../../share/pixmaps/fictecpagos128.png` to `/usr/share/pixmaps`
 
-phore-qt.protocol (KDE)
+fictecpagos-qt.protocol (KDE)
 
